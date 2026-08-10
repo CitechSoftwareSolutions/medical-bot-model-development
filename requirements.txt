@@ -1,0 +1,19 @@
+# --- Core (all stages) ------------------------------------------------------
+numpy
+pytest>=8.0
+
+# --- Embedding ---------------------------------------------------------------
+# Real semantic embeddings. Needs internet access on first run to download
+# the model from Hugging Face (cached locally afterwards). If unavailable,
+# the app automatically falls back to the offline HashingEmbedder — see
+# src/embedding/__init__.py and the "Embedding backend" section of README.md.
+sentence-transformers
+
+# --- Vector store -------------------------------------------------------------
+faiss-cpu
+
+# --- API ----------------------------------------------------------------------
+fastapi
+uvicorn[standard]
+python-multipart   # required by FastAPI for file uploads (UploadFile)
+httpx              # required by FastAPI's TestClient, used in tests/test_api.py

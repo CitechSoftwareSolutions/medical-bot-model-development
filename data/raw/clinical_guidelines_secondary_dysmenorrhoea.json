@@ -1,0 +1,344 @@
+{
+    "document_metadata": {
+        "title": "Guideline Based Management of Common and Red Flag Cases of Secondary Dysmenorrhoea: A Clinical Flow Chart Guide",
+        "category": "Clinical Guidelines",
+        "target_audience": "Healthcare Professionals"
+    },
+    "workflow_steps": [
+        "1. Initial Approach: Establish rapport & privacy, Detailed history, Menstrual/sexual history, Medications & family history, Identify red flags",
+        "2. Initial Evaluation: Physical examination, Pelvic examination (speculum + bimanual), Screen for anemia/BMI/vitals, Baseline investigations, Pregnancy test, Exclude pregnancy & STIs",
+        "3. Diagnosis & Risk Stratification: Consider common causes, Use clinical features/exam/tests, Consider STI & malignancy risks, Identify complications, Rule out non-infectious causes",
+        "4. Management & Follow-Up: Treat underlying cause, Individualize management, Address pain & associated symptoms, Counsel on adherence & lifestyle, Follow-up to assess response, Revise plan if persistent"
+    ],
+    "conditions_registry": [
+        {
+            "condition_name": "Endometriosis",
+            "clinical_presentation": {
+                "key_features": [
+                    "Progressive dysmenorrhoea",
+                    "Chronic pelvic pain",
+                    "Deep dyspareunia",
+                    "Infertility",
+                    "Dyschezia / dysuria",
+                    "Tender nodularity (POD)"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "Clinical diagnosis",
+                    "Pelvic ultrasound",
+                    "MRI (if deep infiltrating)",
+                    "Laparoscopy (gold standard)"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "NSAIDs",
+                    "Combined OCPs or Progestins (continuous)",
+                    "LNG-IUS",
+                    "Tranexamic acid",
+                    "Lifestyle & pain measures"
+                ],
+                "specific_advanced": [
+                    "GnRH agonists / antagonists",
+                    "Add-back therapy",
+                    "Laparoscopic excision / ablation",
+                    "Multidisciplinary care"
+                ],
+                "follow_up_monitoring": [
+                    "Review in 6-12 weeks",
+                    "Monitor pain & bleeding",
+                    "Assess fertility goals",
+                    "Long-term follow-up for recurrence"
+                ]
+            }
+        },
+        {
+            "condition_name": "Adenomyosis",
+            "clinical_presentation": {
+                "key_features": [
+                    "Heavy, painful periods",
+                    "Chronic dull pelvic pain",
+                    "Enlarged, tender uterus",
+                    "Dysmenorrhoea",
+                    "Menorrhagia"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "Clinical evaluation",
+                    "TVS (bulky uterus, heterogeneous myometrium)",
+                    "MRI (if needed)"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "NSAIDs",
+                    "LNG-IUS",
+                    "Progestins",
+                    "Tranexamic acid",
+                    "Iron for anemia"
+                ],
+                "specific_advanced": [
+                    "GnRH agonists",
+                    "Uterine artery embolization (selected cases)",
+                    "Hysterectomy (definitive, completed family)"
+                ],
+                "follow_up_monitoring": [
+                    "Review in 6-12 weeks",
+                    "Monitor bleeding & pain",
+                    "Manage anemia",
+                    "Long-term follow-up"
+                ]
+            }
+        },
+        {
+            "condition_name": "Uterine Fibroids",
+            "clinical_presentation": {
+                "key_features": [
+                    "Heavy bleeding",
+                    "Severe dysmenorrhoea",
+                    "Pelvic pressure",
+                    "Infertility / recurrent pregnancy loss",
+                    "Enlarged uterus"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "Pelvic examination",
+                    "TVS (first line)",
+                    "MRI (mapping)",
+                    "Hb, TFT if indicated"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "NSAIDs",
+                    "Tranexamic acid",
+                    "LNG-IUS (if cavity not distorted)",
+                    "Combined OCPs",
+                    "Iron supplementation"
+                ],
+                "specific_advanced": [
+                    "GnRH agonists (pre-op)",
+                    "Myomectomy",
+                    "Uterine artery embolization",
+                    "Hysterectomy (completed family)"
+                ],
+                "follow_up_monitoring": [
+                    "Review in 6-12 weeks",
+                    "Assess bleeding, pain, fertility",
+                    "Monitor Hb & iron",
+                    "Long-term follow-up"
+                ]
+            }
+        },
+        {
+            "condition_name": "Pelvic Inflammatory Disease (PID)",
+            "clinical_presentation": {
+                "key_features": [
+                    "Bilateral lower abdominal pain",
+                    "Dysmenorrhoea",
+                    "Fever, abnormal discharge",
+                    "Dyspareunia",
+                    "Cervical motion tenderness"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "Clinical diagnosis",
+                    "NAAT for GC/CT",
+                    "CRP / ESR",
+                    "TVS (TOA)",
+                    "Pregnancy test"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "Empiric antibiotics (per guidelines)",
+                    "NSAIDs",
+                    "Partner treatment",
+                    "Abstain till completion"
+                ],
+                "specific_advanced": [
+                    "Hospitalize if severe / TOA",
+                    "IV antibiotics",
+                    "Drainage of abscess (if large)",
+                    "Surgical intervention (rare)"
+                ],
+                "follow_up_monitoring": [
+                    "Review in 48-72 hrs",
+                    "Test of cure (if indicated)",
+                    "Counsel on STI prevention",
+                    "Screen for complications"
+                ]
+            }
+        },
+        {
+            "condition_name": "Chronic Endometritis",
+            "clinical_presentation": {
+                "key_features": [
+                    "Chronic pelvic pain",
+                    "Dysmenorrhoea",
+                    "Abnormal uterine bleeding",
+                    "Infertility / implantation failure"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "Clinical suspicion",
+                    "Endometrial biopsy (plasma cells)",
+                    "Culture / NAAT",
+                    "HSG (if infertility)"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "Antibiotics (e.g., doxycycline)",
+                    "Treat underlying cause",
+                    "Probiotics (adjunct)"
+                ],
+                "specific_advanced": [
+                    "Extended antibiotic course if persistent",
+                    "Manage associated conditions"
+                ],
+                "follow_up_monitoring": [
+                    "Review in 4-6 weeks",
+                    "Reassess symptoms",
+                    "Repeat evaluation if needed"
+                ]
+            }
+        },
+        {
+            "condition_name": "Ovarian Cyst",
+            "clinical_presentation": {
+                "key_features": [
+                    "Acute or cyclic pelvic pain",
+                    "Dysmenorrhoea",
+                    "Bloating / fullness",
+                    "Adnexal tenderness"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "TVS (first line)",
+                    "Beta-hCG (exclude pregnancy)",
+                    "Doppler (torsion)"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "NSAIDs",
+                    "Combined OCPs (prevention)",
+                    "Reassurance (functional cysts)"
+                ],
+                "specific_advanced": [
+                    "Laparoscopic cystectomy (persistent/symptomatic)",
+                    "Manage torsion urgently",
+                    "Malignancy evaluation (if suspicious)"
+                ],
+                "follow_up_monitoring": [
+                    "Review in 6-12 weeks",
+                    "Repeat US if indicated",
+                    "Counsel on warning signs"
+                ]
+            }
+        },
+        {
+            "condition_name": "Congenital Anomalies (e.g., Obstructed Hemivagina, M\u00fcllerian anomalies)",
+            "clinical_presentation": {
+                "key_features": [
+                    "Cyclic pain after menarche",
+                    "Primary amenorrhoea",
+                    "Dysmenorrhoea",
+                    "Hematocolpos / hematometra",
+                    "Urinary symptoms"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "Clinical exam",
+                    "TVS / MRI",
+                    "3D US (if needed)"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "NSAIDs",
+                    "Pain relief",
+                    "Counsel"
+                ],
+                "specific_advanced": [
+                    "Surgical correction of obstruction",
+                    "Treat associated anomalies"
+                ],
+                "follow_up_monitoring": [
+                    "Review in 4-6 weeks",
+                    "Monitor symptoms",
+                    "Long-term follow-up"
+                ]
+            }
+        },
+        {
+            "condition_name": "Adhesions (Post-surgical / Infectious)",
+            "clinical_presentation": {
+                "key_features": [
+                    "Chronic pelvic pain",
+                    "Dysmenorrhoea",
+                    "Infertility",
+                    "History of surgery / PID"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "Clinical suspicion",
+                    "TVS (adhesions)",
+                    "HSG (tubal patency)",
+                    "Laparoscopy"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "NSAIDs",
+                    "Physiotherapy (adjunct)",
+                    "Treat underlying cause"
+                ],
+                "specific_advanced": [
+                    "Laparoscopic adhesiolysis",
+                    "Barrier agents (selected cases)"
+                ],
+                "follow_up_monitoring": [
+                    "Review in 6-12 weeks",
+                    "Monitor pain & fertility",
+                    "Prevent recurrence"
+                ]
+            }
+        }
+    ],
+    "global_red_flags": [
+        "Severe pain unrelieved by analgesics",
+        "Sudden onset severe pelvic pain",
+        "Fever >= 38C with pelvic pain",
+        "Foul-smelling discharge",
+        "Heavy bleeding with hemodynamic instability",
+        "Suspected ectopic pregnancy",
+        "Adnexal mass with suspected torsion",
+        "Weight loss, night sweats, persistent systemic symptoms",
+        "Postcoital bleeding / intermenstrual bleeding",
+        "Palpable pelvic mass / nodularity",
+        "Failure to improve after 3 months of appropriate treatment",
+        "Severe anemia (Hb < 8 g/dL)",
+        "Suspected malignancy"
+    ],
+    "clinical_best_practices": [
+        "Take a thorough history and perform focused examination",
+        "Use minimal, appropriate tests to reach diagnosis",
+        "Treat based on underlying cause",
+        "Address pain, menstruation, and associated symptoms",
+        "Consider fertility desires in management",
+        "Counsel on adherence, lifestyle, and mental health",
+        "Follow-up to ensure symptom resolution and prevent recurrence",
+        "Consider screening for STIs when indicated"
+    ],
+    "disclaimer": "This chart is a guide only. Clinical judgment is essential. Early recognition and appropriate management can significantly improve outcomes in women."
+}

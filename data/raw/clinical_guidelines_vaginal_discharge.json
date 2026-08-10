@@ -1,0 +1,276 @@
+{
+    "document_metadata": {
+        "title": "Evidence Based Management of Vaginal Discharge in Females: A Clinical Flow Chart Guide",
+        "category": "Clinical Guidelines",
+        "target_audience": "Healthcare Professionals"
+    },
+    "workflow_steps": [
+        "1. Initial Approach: Establish rapport & privacy, Detailed history, Physical examination, Identify red flags",
+        "2. Initial Evaluation: Look for red flags, Speculum examination, pH testing, 10% KOH wet mount, Microscopy / Culture if needed, Pregnancy test if indicated",
+        "3. Diagnosis & Risk Stratification: Use clinical features, pH, wet mount to reach diagnosis; Consider STI risk factors; Identify complications; Rule out non-infectious causes",
+        "4. Management & Follow-Up: Start evidence based treatment, Treat partners when indicated, Counsel on prevention, Advise follow-up, Re-evaluate if persistent"
+    ],
+    "conditions_registry": [
+        {
+            "condition_name": "Bacterial Vaginosis (BV)",
+            "clinical_presentation": {
+                "key_features": [
+                    "Thin, homogeneous, grey-white discharge",
+                    "Fishy odour (especially after intercourse)",
+                    "Minimal itching",
+                    "pH > 4.5",
+                    "Clue cells on microscopy",
+                    "Positive whiff test"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "Amsel criteria (>=3 of 4)",
+                    "Nugent score (7-10)",
+                    "pH > 4.5",
+                    "Microscopy"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "Metronidazole 500 mg PO BD x 7 days OR",
+                    "Metronidazole gel 0.75% 5 g intravaginally OD x 5 days OR",
+                    "Clindamycin cream 2% 5 g intravaginally HS x 7 days"
+                ],
+                "specific_advanced": [
+                    "Recurrent BV: Metronidazole gel 0.75% twice weekly x 4-6 months",
+                    "Consider oral probiotics",
+                    "Treat sexual partners (not routinely recommended)"
+                ],
+                "follow_up_monitoring": [
+                    "Review in 1-2 weeks",
+                    "Advise to return if symptoms persist or recur",
+                    "Avoid douching"
+                ]
+            }
+        },
+        {
+            "condition_name": "Vulvovaginal Candidiasis (Yeast Infection)",
+            "clinical_presentation": {
+                "key_features": [
+                    "Thick, white, 'cottage cheese' discharge",
+                    "Intense itching & redness",
+                    "Burning micturition / dyspareunia",
+                    "Normal pH (<= 4.5)",
+                    "No fishy odour"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "KOH wet mount: Budding yeast / pseudohyphae",
+                    "Culture if recurrent or complicated"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "Fluconazole 150 mg PO, single dose OR",
+                    "Clotrimazole 1% cream 5 g intravaginally HS x 7 days OR",
+                    "Miconazole 2% cream HS x 7 days"
+                ],
+                "specific_advanced": [
+                    "Recurrent (>=4/year): Fluconazole 150 mg every 72 h x 3 doses, then weekly x 6 months",
+                    "Consider prolonged therapy in uncontrolled diabetes",
+                    "Avoid irritants"
+                ],
+                "follow_up_monitoring": [
+                    "Review in 1-2 weeks",
+                    "Check blood sugar if recurrent",
+                    "Counsel on hygiene"
+                ]
+            }
+        },
+        {
+            "condition_name": "Trichomoniasis",
+            "clinical_presentation": {
+                "key_features": [
+                    "Frothy, yellow-green discharge",
+                    "Foul odour",
+                    "Itching, irritation",
+                    "Strawberry cervix (may be present)",
+                    "pH > 4.5"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "Wet mount: Motile trichomonads",
+                    "NAAT (most sensitive)",
+                    "pH > 4.5"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "Metronidazole 2 g PO single dose OR",
+                    "Metronidazole 500 mg PO BD x 7 days (Preferred in women)"
+                ],
+                "specific_advanced": [
+                    "Treat all sexual partners simultaneously",
+                    "Abstain from sex until treatment completed & symptoms resolved",
+                    "Consider test of cure in pregnancy"
+                ],
+                "follow_up_monitoring": [
+                    "Review in 2-4 weeks",
+                    "Retest if symptoms persist or recur",
+                    "Screen for other STIs"
+                ]
+            }
+        },
+        {
+            "condition_name": "Cervicitis (STI-related)",
+            "clinical_presentation": {
+                "key_features": [
+                    "Mucopurulent discharge",
+                    "Intermenstrual spotting / postcoital bleeding",
+                    "Dysuria, dyspareunia",
+                    "Cervical motion tenderness",
+                    "Risk factors for STIs"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "NAAT for Chlamydia trachomatis & Neisseria gonorrhoeae",
+                    "Gram stain (PMNs)",
+                    "Culture if needed"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "Ceftriaxone 500 mg IM single dose PLUS",
+                    "Doxycycline 100 mg PO BD x 7 days (If Chlamydia not excluded)"
+                ],
+                "specific_advanced": [
+                    "Add Metronidazole 500 mg BD x 7 days if BV co-infection suspected",
+                    "Treat all partners",
+                    "HPV vaccination if eligible"
+                ],
+                "follow_up_monitoring": [
+                    "Review in 1-2 weeks",
+                    "Retest for Chlamydia in 3 months",
+                    "Counsel on safe sex"
+                ]
+            }
+        },
+        {
+            "condition_name": "Physiological (Leucorrhoea)",
+            "clinical_presentation": {
+                "key_features": [
+                    "Thin, white or clear discharge",
+                    "No odour, no itching",
+                    "Varies with cycle",
+                    "Normal pH (<= 4.5)"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "Clinical diagnosis",
+                    "Normal pH",
+                    "No pathogens on microscopy"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "Reassurance",
+                    "No medications needed",
+                    "Counsel on genital hygiene & cotton underwear"
+                ],
+                "specific_advanced": [
+                    "None"
+                ],
+                "follow_up_monitoring": [
+                    "Routine care",
+                    "Return if symptoms change"
+                ]
+            }
+        },
+        {
+            "condition_name": "Atrophic Vaginitis",
+            "clinical_presentation": {
+                "key_features": [
+                    "Thin, watery discharge",
+                    "Vaginal dryness",
+                    "Itching, burning, dyspareunia",
+                    "Postmenopausal"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "Clinical diagnosis",
+                    "pH > 4.5",
+                    "Vaginal atrophy on exam"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "Vaginal moisturizers (regular use)",
+                    "Lubricants for intercourse",
+                    "Topical estrogen cream (as per guidelines)"
+                ],
+                "specific_advanced": [
+                    "Low dose vaginal estrogen (e.g., estradiol cream 0.5 g HS x 2 weeks, then 2-3 times/week)",
+                    "Ospemifene (oral) in selected cases"
+                ],
+                "follow_up_monitoring": [
+                    "Review in 4-6 weeks",
+                    "Monitor symptoms",
+                    "Consider bone health evaluation"
+                ]
+            }
+        },
+        {
+            "condition_name": "Non-infectious Causes (Allergic / Irritant)",
+            "clinical_presentation": {
+                "key_features": [
+                    "Discharge with itching & irritation",
+                    "History of new soap, pads, lubricants, spermicides, etc.",
+                    "No systemic symptoms"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "Clinical diagnosis",
+                    "pH normal or mildly elevated",
+                    "No pathogens"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "Remove offending agent",
+                    "Barrier protection (zinc oxide)",
+                    "Topical corticosteroid (short course if severe)"
+                ],
+                "specific_advanced": [
+                    "Patch testing in selected cases",
+                    "Treat secondary infection if present"
+                ],
+                "follow_up_monitoring": [
+                    "Review in 2-4 weeks",
+                    "Return if no improvement"
+                ]
+            }
+        }
+    ],
+    "global_red_flags": [
+        "Foul smelling discharge with fever / pelvic pain",
+        "Postmenopausal bleeding with discharge",
+        "Severe lower abdominal pain",
+        "Pregnancy with bleeding / discharge",
+        "Suspected PID / tubo-ovarian abscess",
+        "Immunocompromised patient with persistent symptoms",
+        "Recurrent or persistent discharge not responding to treatment",
+        "Ulcer, growth, or suspicious lesions"
+    ],
+    "clinical_best_practices": [
+        "Take a thorough history and perform focused examination",
+        "Use minimal, appropriate tests to reach diagnosis",
+        "Treat based on most likely diagnosis",
+        "Treat sexual partners when indicated",
+        "Counsel on safe sex, hygiene, and prevention",
+        "Follow-up to ensure symptom resolution and prevent recurrence",
+        "Consider screening for other STIs"
+    ],
+    "disclaimer": "This chart is a guide only. Clinical judgment is essential. Early recognition and appropriate management improve outcomes in women."
+}
