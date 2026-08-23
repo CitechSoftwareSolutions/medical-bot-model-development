@@ -32,12 +32,12 @@ def get_embedder(force_backend: str | None = None) -> BaseEmbedder:
 
     elif backend == "sentence-transformers":
         from src.embedding.sentence_transformer_embedder import SentenceTransformerEmbedder
-        embedder = SentenceTransformerEmbedder(config.EMBEDDING_MODEL_NAME)
+        embedder = SentenceTransformerEmbedder(config.EMBEDDING_MODEL_NAME, token=config.HF_TOKEN)
 
     elif backend == "auto":
         try:
             from src.embedding.sentence_transformer_embedder import SentenceTransformerEmbedder
-            embedder = SentenceTransformerEmbedder(config.EMBEDDING_MODEL_NAME)
+            embedder = SentenceTransformerEmbedder(config.EMBEDDING_MODEL_NAME, token=config.HF_TOKEN)
             logger.info("Using sentence-transformers model '%s'", config.EMBEDDING_MODEL_NAME)
         except Exception as e:
             logger.warning(

@@ -15,6 +15,7 @@ from fastapi.testclient import TestClient
 
 import src.embedding as embedding_module
 import src.pipeline as pipeline_module
+import api.routers.search as search_router
 from src import config
 
 
@@ -61,6 +62,23 @@ def test_search_returns_results(client):
     assert body["query"] == "migraine with nausea"
     assert len(body["results"]) == 3
     assert all("score" in hit for hit in body["results"])
+
+
+def test_ask_returns_grounded_answer_and_sources(client, monkeypatch):
+    class FakeGenerator:
+        def generate(self, question, context):
+            assert question == "What helps migraine?"
+            assert context
+            return "Use the retrieved guideline context."
+
+    monkeypatch.setattr(search_router, "get_generator", lambda: FakeGenerator())
+    response = client.post("/ask", json={"question": "What helps migraine?", "top_k": 2})
+
+    assert response.status_code == 200
+    body = response.json()
+    assert body["answer"] == "Use the retrieved guideline context."
+    assert len(body["sources"]) == 2
+    assert all("condition_name" in source for source in body["sources"])
 
 
 def test_search_top_k_out_of_range_rejected(client):

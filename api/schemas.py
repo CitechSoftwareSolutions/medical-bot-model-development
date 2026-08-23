@@ -39,6 +39,17 @@ class SearchResponse(BaseModel):
     results: list[SearchHit]
 
 
+class AskRequest(BaseModel):
+    question: str = Field(..., min_length=1)
+    top_k: int = Field(5, ge=1, le=20)
+
+
+class AskResponse(BaseModel):
+    question: str
+    answer: str
+    sources: list[SearchHit]
+
+
 class RebuildResponse(BaseModel):
     documents_loaded: int
     chunks_added: int

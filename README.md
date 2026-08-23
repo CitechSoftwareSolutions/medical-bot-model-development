@@ -1,7 +1,8 @@
 # Medical Guiding System — Sprint 1: Document Handling
 
 Pipeline: **Loading → Preprocessing → Extraction → Embedding → Vector Store (FAISS)**,
-plus an API to upload documents and search the store.
+plus retrieval-augmented generation with Gemini and an API to
+upload documents, search the store, and ask grounded questions.
 
 See `CHANGELOG.md` for exactly what changed in this delivery, including the
 one (backward-compatible) change to the document loading code.
@@ -12,7 +13,7 @@ one (backward-compatible) change to the document loading code.
 pip install -r requirements.txt
 
 # Run the API
-uvicorn api.main:app --reload --port 8000
+python -m uvicorn api.main:app --reload --port 8000
 # then open http://localhost:8000/docs for interactive Swagger docs
 
 # Or run the pipeline directly, no API
@@ -36,6 +37,7 @@ src/
   embedding/                 STAGE 4: text -> vector (real model or offline fallback)
   vector_store/              STAGE 5: FAISS index + metadata, save/load
   pipeline.py                Orchestrates all 5 stages
+  generation/                LLM backend used after retrieval (Gemini default)
 
 api/
   main.py                    FastAPI app
@@ -51,6 +53,7 @@ api/
 | POST   | `/documents/upload`      | Upload a new guideline `.json`. Validates before writing to disk; embeds and indexes it immediately. |
 | GET    | `/documents`              | List everything currently in `data/raw/`. |
 | POST   | `/search`                 | `{"query": "...", "top_k": 5}` → ranked chunks from the FAISS store. |
+| POST   | `/ask`                    | `{"question": "...", "top_k": 5}` → answer grounded in retrieved chunks. |
 | POST   | `/vector-store/rebuild`  | Wipe and rebuild the whole index from `data/raw/`. |
 | GET    | `/health`                 | Which embedding backend is active, document/vector counts. |
 
@@ -62,6 +65,34 @@ curl -X POST http://localhost:8000/documents/upload \
 curl -X POST http://localhost:8000/search \
   -H "Content-Type: application/json" \
   -d '{"query": "throbbing headache with nausea", "top_k": 3}'
+
+curl -X POST http://localhost:8000/ask \
+  -H "Content-Type: application/json" \
+  -d '{"question": "What should I consider for a headache with nausea?", "top_k": 3}'
+```
+
+## RAG models
+
+The default embedding model is `sentence-transformers/all-MiniLM-L6-v2`.
+The default generation model is `gemini-3.6-flash` via the Gemini API.
+Generation is lazy, so the API can start and `/search` can be used without
+loading the LLM provider client.
+
+The Gemini integration uses the `google-genai` Python SDK.
+
+Set the Gemini key in the environment before starting the API. Do not put
+the key in source files:
+
+```powershell
+$env:GEMINI_API_KEY = "your-gemini-api-key"
+python -m uvicorn api.main:app --reload --port 8000
+```
+
+If you use authenticated Hugging Face downloads for embeddings or switch the
+LLM backend to Hugging Face, you can also set:
+
+```powershell
+$env:HF_TOKEN = "your-hugging-face-token"
 ```
 
 ## Adding a new guideline document
@@ -84,24 +115,20 @@ Either way, the only requirement is the schema confirmed earlier:
 
 ## Embedding backend — read this before deploying
 
-`src/config.py` has `EMBEDDING_BACKEND = "auto"`, which tries to load a real
-`sentence-transformers` model (`all-MiniLM-L6-v2` by default) and **falls
-back automatically** to a deterministic offline `HashingEmbedder` if the
-model can't be downloaded (no internet, firewall, etc.).
+`src/config.py` currently sets `EMBEDDING_BACKEND = "sentence-transformers"`
+with `all-MiniLM-L6-v2` as the default model.
 
-**This fallback is real and was actually triggered while building this**,
-because the sandbox this was built in has no access to `huggingface.co`.
-The hashing embedder is fine for verifying the pipeline's plumbing (upload
-→ chunk → embed → store → search all work end-to-end), but it has **no
-real semantic understanding** — it's keyword-overlap-ish, not meaning-based.
-For actual retrieval quality, you need the real model:
+If you need offline fallback behavior, set `EMBEDDING_BACKEND` to `auto`
+(fallback to hashing) or `hashing` (force deterministic hashing). The
+hashing embedder is useful for tests/CI or constrained environments but has
+lower semantic retrieval quality than sentence-transformers.
 
 1. Make sure your machine has normal internet access.
 2. First run of the API (or `rebuild_index()`) will download the model
    automatically and cache it — no code change needed.
 3. Check which backend is actually active any time via `GET /health` →
    `"embedding_backend"` will say `"sentence-transformers"` once it's
-   working, `"hashing"` if it's still falling back.
+  working, `"hashing"` if you force/trigger hashing fallback.
 4. For better clinical-domain results specifically, consider swapping
    `EMBEDDING_MODEL_NAME` in `src/config.py` to a biomedical model (e.g.
    `pritamdeka/S-PubMedBert-MS-MARCO`) — test it in your environment first.

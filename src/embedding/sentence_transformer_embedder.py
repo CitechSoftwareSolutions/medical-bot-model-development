@@ -15,11 +15,11 @@ from src.embedding.base import BaseEmbedder
 class SentenceTransformerEmbedder(BaseEmbedder):
     name = "sentence-transformers"
 
-    def __init__(self, model_name: str):
+    def __init__(self, model_name: str, token: str | None = None):
         from sentence_transformers import SentenceTransformer  # local import: optional dependency
 
         self.model_name = model_name
-        self._model = SentenceTransformer(model_name)
+        self._model = SentenceTransformer(model_name, token=token)
         self._dimension = self._model.get_sentence_embedding_dimension()
 
     @property

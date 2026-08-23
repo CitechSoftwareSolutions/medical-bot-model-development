@@ -9,6 +9,11 @@ pytest>=8.0
 # src/embedding/__init__.py and the "Embedding backend" section of README.md.
 sentence-transformers
 
+# --- LLM generation ---------------------------------------------------------
+google-genai
+transformers
+torch
+
 # --- Vector store -------------------------------------------------------------
 faiss-cpu
 
