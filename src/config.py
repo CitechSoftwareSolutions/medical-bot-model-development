@@ -6,6 +6,9 @@ vector store) import from one place instead of hardcoding strings.
 
 from pathlib import Path
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Project root = the folder that contains "src/"
 PROJECT_ROOT = Path(__file__).resolve().parent.parent

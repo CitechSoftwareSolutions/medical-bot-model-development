@@ -17,8 +17,5 @@ torch
 # --- Vector store -------------------------------------------------------------
 faiss-cpu
 
-# --- API ----------------------------------------------------------------------
-fastapi
-uvicorn[standard]
-python-multipart   # required by FastAPI for file uploads (UploadFile)
-httpx              # required by FastAPI's TestClient, used in tests/test_api.py
+# --- Config -----------------------------------------------------------------
+python-dotenv
