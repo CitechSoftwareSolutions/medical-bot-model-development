@@ -18,6 +18,7 @@ def get_generator() -> Any:
                 model_name=config.LLM_MODEL_NAME,
                 api_key=config.GEMINI_API_KEY or "",
                 max_output_tokens=config.LLM_MAX_NEW_TOKENS,
+                temperature=getattr(config, "LLM_TEMPERATURE", 0.0),
             )
         elif config.LLM_BACKEND == "huggingface":
             from src.generation.huggingface_generator import HuggingFaceGenerator
@@ -26,6 +27,7 @@ def get_generator() -> Any:
                 model_name=config.LLM_MODEL_NAME,
                 max_new_tokens=config.LLM_MAX_NEW_TOKENS,
                 token=config.HF_TOKEN,
+                temperature=getattr(config, "LLM_TEMPERATURE", 0.0),
             )
         else:
             raise ValueError(f"Unknown LLM_BACKEND: {config.LLM_BACKEND!r}")

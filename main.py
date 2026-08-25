@@ -70,7 +70,12 @@ def main():
             for idx, hit in enumerate(hits, start=1):
                 condition = hit.get('condition_name')
                 score = hit.get('score', 0)
+                chunk_text = hit.get('text', '')
                 print(f"[{idx}] {condition} (Relevance: {score:.4f})")
+                
+                # Print a preview of the chunk text (first 250 characters)
+                preview = chunk_text[:250].replace('\n', ' ') + ('...' if len(chunk_text) > 250 else '')
+                print(f"    Chunk Preview: {preview}\n")
             
         except KeyboardInterrupt:
             break

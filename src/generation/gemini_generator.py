@@ -6,12 +6,13 @@ from typing import Any
 class GeminiGenerator:
     name = "gemini"
 
-    def __init__(self, model_name: str, api_key: str, max_output_tokens: int = 512):
+    def __init__(self, model_name: str, api_key: str, max_output_tokens: int | None = None, temperature: float = 0.0):
         if not api_key:
             raise ValueError("GEMINI_API_KEY is required for the Gemini backend.")
         self.model_name = model_name
         self.api_key = api_key
         self.max_output_tokens = max_output_tokens
+        self.temperature = temperature
         self._client: Any | None = None
 
     def _load(self) -> Any:
@@ -30,10 +31,14 @@ class GeminiGenerator:
             "red flags are present.\n\n"
             f"Context:\n{context}\n\nQuestion: {question}\nAnswer:"
         )
+        gen_config = {"temperature": self.temperature}
+        if self.max_output_tokens is not None:
+            gen_config["max_output_tokens"] = self.max_output_tokens
+            
         response = self._load().models.generate_content(
             model=self.model_name,
             contents=prompt,
-            config={"max_output_tokens": self.max_output_tokens},
+            config=gen_config,
         )
 
         text = getattr(response, "text", None)

@@ -50,13 +50,14 @@ EMBEDDING_DIM = 384
 # --- Generation settings ----------------------------------------------------
 
 # "gemini"      -> Gemini API via GEMINI_API_KEY
-# "huggingface" -> local Hugging Face generation backend
+# "huggingface" -> Hugging Face Inference API via HF_TOKEN
 LLM_BACKEND = "gemini"
 
 # LLM model used to turn retrieved guideline chunks into an answer.
 # The model is loaded lazily on the first /ask request.
 LLM_MODEL_NAME = "gemini-3.6-flash"
-LLM_MAX_NEW_TOKENS = 512
+LLM_MAX_NEW_TOKENS = None  # None removes the length limit
+LLM_TEMPERATURE = 0.0 # Set between 0.0 and 1.0 (0.0 = more factual/deterministic)
 
 # Gemini API key is environment-only by design.
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
