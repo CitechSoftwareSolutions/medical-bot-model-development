@@ -1,0 +1,316 @@
+{
+    "document_metadata": {
+        "title": "Guideline Based Management of Primary Tremors: A Clinical Flow Chart Guide",
+        "category": "Clinical Guidelines",
+        "target_audience": "Healthcare Professionals"
+    },
+    "workflow_steps": [
+        "1. Initial Approach: Take detailed history (onset, duration, hand involvement, triggers), Comprehensive examination, Identify red flags",
+        "2. Initial Evaluation: Characterize tremor (Rest, Postural, Action, Kinetic), Basic investigations (CBC, RBS, TSH, Renal/Liver/Electrolytes), Toxicology screen if indicated",
+        "3. Diagnosis & Etiologic Classification: Determine tremor type, Identify underlying cause, Assess severity/impact (e.g., Fahn-Tolosa-Marin Tremor Rating Scale), Rule out secondary causes",
+        "4. Management & Follow-up: Treat underlying cause, Symptomatic management, Non-pharmacologic measures, Follow-up regularly, Refer if refractory/atypical"
+    ],
+    "conditions_registry": [
+        {
+            "condition_name": "Essential Tremor (ET)",
+            "clinical_presentation": {
+                "key_features": [
+                    "Bilateral action tremor (postural > kinetic)",
+                    "Usually in hands, may involve head, voice",
+                    "Gradual onset",
+                    "Family history common",
+                    "Improves with small amount of alcohol"
+                ]
+            },
+            "diagnostic_approach": {
+                "common_causes": [
+                    "Idiopathic (most common)",
+                    "Family history",
+                    "Exacerbated by stress, fatigue, caffeine"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "Non-pharmacologic: Reassurance, Avoid caffeine & stimulants",
+                    "Adequate sleep",
+                    "Stress management",
+                    "Occupational therapy",
+                    "Weighted utensils"
+                ],
+                "specific_advanced": [
+                    "First-line (Pharmacologic): Propranolol 40-240 mg/day (start low, titrate) OR Primidone 25-250 mg/day (start low, titrate)",
+                    "Combination therapy if inadequate response",
+                    "Topiramate, Gabapentin, Pregabalin"
+                ],
+                "follow_up_monitoring": [
+                    "Review in 4-6 weeks",
+                    "Assess tremor severity, ADL impact & side effects",
+                    "Monitor HR & BP (if on beta-blockers)",
+                    "Long-term follow-up"
+                ]
+            }
+        },
+        {
+            "condition_name": "Parkinsonian Tremor (Resting Tremor)",
+            "clinical_presentation": {
+                "key_features": [
+                    "Resting tremor (pill-rolling)",
+                    "Asymmetric onset",
+                    "Decreases with voluntary movement",
+                    "Associated bradykinesia, rigidity, postural instability"
+                ]
+            },
+            "diagnostic_approach": {
+                "common_causes": [
+                    "Parkinson's disease (common)",
+                    "Atypical parkinsonism",
+                    "Drugs (e.g., antipsychotics)",
+                    "Vascular parkinsonism"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "Confirm diagnosis",
+                    "Evaluate for PD criteria",
+                    "Review medications",
+                    "Baseline counseling"
+                ],
+                "specific_advanced": [
+                    "Levodopa/carbidopa (start low, titrate)",
+                    "Dopamine agonists",
+                    "MAO-B inhibitors / COMT inhibitors",
+                    "Physiotherapy",
+                    "Advanced/refractory: Deep brain stimulation (STN/GPi), Apomorphine / Duodopa"
+                ],
+                "follow_up_monitoring": [
+                    "Review in 4-6 weeks",
+                    "Monitor motor & non-motor symptoms",
+                    "Watch for medication side effects",
+                    "Regular neurologist follow-up"
+                ]
+            }
+        },
+        {
+            "condition_name": "Physiologic Tremor",
+            "clinical_presentation": {
+                "key_features": [
+                    "Low amplitude, high frequency",
+                    "Present in all individuals",
+                    "Enhanced by anxiety, fatigue, medications, caffeine, hyperthyroidism"
+                ]
+            },
+            "diagnostic_approach": {
+                "common_causes": [
+                    "Anxiety / Stress",
+                    "Fatigue",
+                    "Caffeine, nicotine",
+                    "Medications (beta-agonists, SSRIs, TCAs, lithium, valproate)",
+                    "Hyperthyroidism"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "Identify & remove triggers",
+                    "Reassurance",
+                    "Lifestyle modification",
+                    "Treat underlying cause (e.g., hyperthyroidism)"
+                ],
+                "specific_advanced": [
+                    "Usually no specific drug therapy required",
+                    "If troublesome: Propranolol (10-40 mg PRN) for performance-related situations"
+                ],
+                "follow_up_monitoring": [
+                    "Review if persistent or worsening",
+                    "Monitor after treating underlying cause"
+                ]
+            }
+        },
+        {
+            "condition_name": "Enhanced Physiologic / Situational Tremor",
+            "clinical_presentation": {
+                "key_features": [
+                    "Action or postural tremor",
+                    "Situational (e.g., public speaking, fine tasks)",
+                    "Normal neuro exam"
+                ]
+            },
+            "diagnostic_approach": {
+                "common_causes": [
+                    "Stress / Performance anxiety",
+                    "Stimulants",
+                    "Fatigue"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "Reassurance",
+                    "Relaxation techniques",
+                    "Behavioral therapy / CBT",
+                    "Skill training"
+                ],
+                "specific_advanced": [
+                    "Propranolol 10-40 mg PRN",
+                    "Short-term use only"
+                ],
+                "follow_up_monitoring": [
+                    "Review as needed",
+                    "Ensure no progression of tremor"
+                ]
+            }
+        },
+        {
+            "condition_name": "Cerebellar Tremor (Intentional)",
+            "clinical_presentation": {
+                "key_features": [
+                    "Action tremor (intention)",
+                    "Dysmetria",
+                    "Associated with ataxia, dysarthria, nystagmus"
+                ]
+            },
+            "diagnostic_approach": {
+                "common_causes": [
+                    "Cerebellar disorders (degenerative, inflammatory, vascular, tumor, MS)",
+                    "Alcohol"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "Neurologic evaluation",
+                    "MRI brain (if indicated)",
+                    "Identify & treat underlying cause"
+                ],
+                "specific_advanced": [
+                    "Treat underlying disorder",
+                    "Clonazepam or Primidone may help",
+                    "Occupational & physiotherapy"
+                ],
+                "follow_up_monitoring": [
+                    "Regular neurologic follow-up",
+                    "Monitor progression of ataxia & other signs"
+                ]
+            }
+        },
+        {
+            "condition_name": "Dystonic Tremor",
+            "clinical_presentation": {
+                "key_features": [
+                    "Occurs in body part with dystonia",
+                    "Task-specific",
+                    "Abnormal postures"
+                ]
+            },
+            "diagnostic_approach": {
+                "common_causes": [
+                    "Dystonia (primary or secondary)",
+                    "Medications",
+                    "Wilson's disease"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "Treat underlying dystonia",
+                    "Consider botulinum toxin (in focal dystonia)",
+                    "Physiotherapy"
+                ],
+                "specific_advanced": [
+                    "Anticholinergics",
+                    "Benzodiazepines",
+                    "Botulinum toxin injections",
+                    "Deep brain stimulation (in selected cases)"
+                ],
+                "follow_up_monitoring": [
+                    "Review in 4-6 weeks",
+                    "Assess response & side effects"
+                ]
+            }
+        },
+        {
+            "condition_name": "Drug-Induced Tremor",
+            "clinical_presentation": {
+                "key_features": [
+                    "Tremor after starting drug",
+                    "Often bilateral action tremor",
+                    "Timing correlates with drug exposure"
+                ]
+            },
+            "diagnostic_approach": {
+                "common_causes": [
+                    "beta-agonists, steroids",
+                    "Lithium, valproate",
+                    "SSRIs, SNRIs, TCAs",
+                    "Calcineurin inhibitors / immunosuppressants"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "Review medication history",
+                    "Stop or reduce offending drug if possible",
+                    "Consider alternative"
+                ],
+                "specific_advanced": [
+                    "Propranolol (if symptomatic)",
+                    "Treat underlying condition"
+                ],
+                "follow_up_monitoring": [
+                    "Review in 2-4 weeks",
+                    "Ensure symptom resolution after drug adjustment"
+                ]
+            }
+        },
+        {
+            "condition_name": "Psychogenic (Functional) Tremor",
+            "clinical_presentation": {
+                "key_features": [
+                    "Variable tremor",
+                    "Distractible / entrainable",
+                    "Inconsistent findings",
+                    "Associated with psychological stress"
+                ]
+            },
+            "diagnostic_approach": {
+                "common_causes": [
+                    "Functional neurologic disorder",
+                    "Anxiety, depression, stress"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "Educate & reassure",
+                    "Explain diagnosis",
+                    "Avoid unnecessary tests",
+                    "Address psychological factors"
+                ],
+                "specific_advanced": [
+                    "Cognitive behavioral therapy",
+                    "Physiotherapy",
+                    "Psychiatric evaluation (if needed)"
+                ],
+                "follow_up_monitoring": [
+                    "Regular follow-up",
+                    "Monitor for improvement",
+                    "Encourage active rehabilitation"
+                ]
+            }
+        }
+    ],
+    "global_red_flags": [
+        "Acute onset tremor",
+        "Unilateral resting tremor with rapid progression",
+        "Tremor with weakness, numbness, vision change, ataxia",
+        "Tremor with altered consciousness",
+        "Suspected drug toxicity",
+        "Severe disability impacting ADLs",
+        "Suspected cerebellar lesion",
+        "Tremor in child or adolescent",
+        "Signs of Wilson's disease (young age, liver disease)"
+    ],
+    "clinical_best_practices": [
+        "Identify tremor type accurately",
+        "Treat underlying cause whenever possible",
+        "Start low, go slow with medications",
+        "Individualize treatment based on severity & impact",
+        "Monitor side effects and adherence",
+        "Multidisciplinary approach improves outcomes"
+    ],
+    "disclaimer": "This chart is a guide only. Clinical judgment is essential. Early recognition and appropriate management improve quality of life and functional outcomes."
+}

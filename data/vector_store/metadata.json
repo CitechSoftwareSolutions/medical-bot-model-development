@@ -1,0 +1,2097 @@
+[
+  {
+    "chunk_id": "clinical_guidelines_abdominal_discomfort_elderly::gord-gastro-oesophageal-reflux-disease",
+    "doc_id": "clinical_guidelines_abdominal_discomfort_elderly",
+    "source_title": "Guideline Based Management of Abdominal Discomfort in Elderly: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "GORD (Gastro-oesophageal Reflux Disease)",
+    "text": "Condition: GORD (Gastro-oesophageal Reflux Disease)\nKey features: Heartburn, regurgitation; Worse at night or after meals; Atypical symptoms: cough, hoarseness, asthma; Consider drug-induced (nitrates, CCBs); Alarm symptoms: weight loss, dysphagia\nInvestigations: Clinical diagnosis; Upper GI endoscopy if alarm symptoms or long-standing; pH monitoring (if refractory)\nInitial/conservative management: Lifestyle: weight reduction, elevate head end, avoid late meals, reduce trigger foods; Trial PPI once daily (e.g., Pantoprazole 40 mg OD); Antacids / alginates PRN\nAdvanced/specific management: Optimize PPI (BD dosing if needed); Add H2 blocker at night if nocturnal symptoms; Evaluate & stop offending drugs; Endoscopic evaluation if alarm or refractory; Consider surgery (fundoplication) in fit patients with refractory disease\nFollow-up: Review in 4-8 weeks; Monitor symptom control; Watch for B12 deficiency, fractures (long-term PPI); Repeat endoscopy if symptoms persist or worsen",
+    "key_features": [
+      "Heartburn, regurgitation",
+      "Worse at night or after meals",
+      "Atypical symptoms: cough, hoarseness, asthma",
+      "Consider drug-induced (nitrates, CCBs)",
+      "Alarm symptoms: weight loss, dysphagia"
+    ],
+    "red_flags": [
+      "Significant weight loss",
+      "Gastrointestinal bleeding (hematemesis / melena / hematochezia)",
+      "Progressive dysphagia",
+      "Persistent vomiting",
+      "Severe abdominal pain with guarding or rigidity",
+      "Iron deficiency anemia (unexplained)",
+      "Obstructive symptoms",
+      "Jaundice",
+      "Altered mental status"
+    ],
+    "metadata": {
+      "investigations": [
+        "Clinical diagnosis",
+        "Upper GI endoscopy if alarm symptoms or long-standing",
+        "pH monitoring (if refractory)"
+      ],
+      "management_conservative": [
+        "Lifestyle: weight reduction, elevate head end, avoid late meals, reduce trigger foods",
+        "Trial PPI once daily (e.g., Pantoprazole 40 mg OD)",
+        "Antacids / alginates PRN"
+      ],
+      "management_advanced": [
+        "Optimize PPI (BD dosing if needed)",
+        "Add H2 blocker at night if nocturnal symptoms",
+        "Evaluate & stop offending drugs",
+        "Endoscopic evaluation if alarm or refractory",
+        "Consider surgery (fundoplication) in fit patients with refractory disease"
+      ],
+      "management_follow_up": [
+        "Review in 4-8 weeks",
+        "Monitor symptom control",
+        "Watch for B12 deficiency, fractures (long-term PPI)",
+        "Repeat endoscopy if symptoms persist or worsen"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_abdominal_discomfort_elderly::peptic-ulcer-disease-pud",
+    "doc_id": "clinical_guidelines_abdominal_discomfort_elderly",
+    "source_title": "Guideline Based Management of Abdominal Discomfort in Elderly: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Peptic Ulcer Disease (PUD)",
+    "text": "Condition: Peptic Ulcer Disease (PUD)\nKey features: Epigastric pain, burning; Pain related to meals (DU: pain after, GU: pain with food); NSAID use common in elderly; Alarm: bleeding, anemia, weight loss, vomiting\nInvestigations: Upper GI endoscopy (gold standard); H. pylori test (Urea breath test / stool antigen / biopsy)\nInitial/conservative management: Stop NSAIDs; Start PPI (e.g., Pantoprazole 40 mg BD); Test & treat H. pylori if positive; Sucralfate if needed\nAdvanced/specific management: H. pylori eradication: PPI + Clarithromycin + Amoxicillin (or Metronidazole) for 14 days; Continue PPI 4-8 weeks (DU), 8-12 weeks (GU); Endoscopic therapy if bleeding; Surgery if perforation, obstruction, recurrent bleeding\nFollow-up: Confirm H. pylori eradication; Monitor for anemia; Avoid NSAIDs (use alternatives); Repeat endoscopy if non-healing ulcer or alarm",
+    "key_features": [
+      "Epigastric pain, burning",
+      "Pain related to meals (DU: pain after, GU: pain with food)",
+      "NSAID use common in elderly",
+      "Alarm: bleeding, anemia, weight loss, vomiting"
+    ],
+    "red_flags": [
+      "Significant weight loss",
+      "Gastrointestinal bleeding (hematemesis / melena / hematochezia)",
+      "Progressive dysphagia",
+      "Persistent vomiting",
+      "Severe abdominal pain with guarding or rigidity",
+      "Iron deficiency anemia (unexplained)",
+      "Obstructive symptoms",
+      "Jaundice",
+      "Altered mental status"
+    ],
+    "metadata": {
+      "investigations": [
+        "Upper GI endoscopy (gold standard)",
+        "H. pylori test (Urea breath test / stool antigen / biopsy)"
+      ],
+      "management_conservative": [
+        "Stop NSAIDs",
+        "Start PPI (e.g., Pantoprazole 40 mg BD)",
+        "Test & treat H. pylori if positive",
+        "Sucralfate if needed"
+      ],
+      "management_advanced": [
+        "H. pylori eradication: PPI + Clarithromycin + Amoxicillin (or Metronidazole) for 14 days",
+        "Continue PPI 4-8 weeks (DU), 8-12 weeks (GU)",
+        "Endoscopic therapy if bleeding",
+        "Surgery if perforation, obstruction, recurrent bleeding"
+      ],
+      "management_follow_up": [
+        "Confirm H. pylori eradication",
+        "Monitor for anemia",
+        "Avoid NSAIDs (use alternatives)",
+        "Repeat endoscopy if non-healing ulcer or alarm"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_abdominal_discomfort_elderly::gall-bladder-diseases",
+    "doc_id": "clinical_guidelines_abdominal_discomfort_elderly",
+    "source_title": "Guideline Based Management of Abdominal Discomfort in Elderly: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Gall Bladder Diseases",
+    "text": "Condition: Gall Bladder Diseases\nKey features: RUQ pain, nausea, bloating; Pain after fatty meals; May have fever (cholecystitis); Elderly may present atypically; Consider comorbid cardiac/pulmonary disease\nInvestigations: Ultrasound abdomen (first line); LFT, CBC; Consider HIDA scan if biliary dyskinesia suspected\nInitial/conservative management: Analgesia (Paracetamol); Low-fat diet; Hydration; Treat infection if present (Antibiotics)\nAdvanced/specific management: Cholelithiasis (symptomatic): Laparoscopic cholecystectomy (preferred) if fit; Acute cholecystitis: IV antibiotics + supportive care; Percutaneous cholecystostomy if high surgical risk; ERCP if choledocholithiasis\nFollow-up: Monitor LFT, symptoms; Post-op follow-up; Watch for complications (jaundice, pancreatitis); Dietary advice",
+    "key_features": [
+      "RUQ pain, nausea, bloating",
+      "Pain after fatty meals",
+      "May have fever (cholecystitis)",
+      "Elderly may present atypically",
+      "Consider comorbid cardiac/pulmonary disease"
+    ],
+    "red_flags": [
+      "Significant weight loss",
+      "Gastrointestinal bleeding (hematemesis / melena / hematochezia)",
+      "Progressive dysphagia",
+      "Persistent vomiting",
+      "Severe abdominal pain with guarding or rigidity",
+      "Iron deficiency anemia (unexplained)",
+      "Obstructive symptoms",
+      "Jaundice",
+      "Altered mental status"
+    ],
+    "metadata": {
+      "investigations": [
+        "Ultrasound abdomen (first line)",
+        "LFT, CBC",
+        "Consider HIDA scan if biliary dyskinesia suspected"
+      ],
+      "management_conservative": [
+        "Analgesia (Paracetamol)",
+        "Low-fat diet",
+        "Hydration",
+        "Treat infection if present (Antibiotics)"
+      ],
+      "management_advanced": [
+        "Cholelithiasis (symptomatic): Laparoscopic cholecystectomy (preferred) if fit",
+        "Acute cholecystitis: IV antibiotics + supportive care",
+        "Percutaneous cholecystostomy if high surgical risk",
+        "ERCP if choledocholithiasis"
+      ],
+      "management_follow_up": [
+        "Monitor LFT, symptoms",
+        "Post-op follow-up",
+        "Watch for complications (jaundice, pancreatitis)",
+        "Dietary advice"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_abdominal_discomfort_elderly::gastric-carcinoma",
+    "doc_id": "clinical_guidelines_abdominal_discomfort_elderly",
+    "source_title": "Guideline Based Management of Abdominal Discomfort in Elderly: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Gastric Carcinoma",
+    "text": "Condition: Gastric Carcinoma\nKey features: Early satiety, bloating; Weight loss, anorexia; Epigastric discomfort; Anemia, occult bleeding; More common in >70 yrs; Alarm symptoms common\nInvestigations: Upper GI endoscopy with biopsy; CT abdomen (staging); CBC, LFT, tumor markers (CEA, CA19-9)\nInitial/conservative management: Nutritional support; Treat anemia; Pain control; PPI for symptom relief\nAdvanced/specific management: Multidisciplinary approach; Surgery (if early & resectable); Chemotherapy (e.g., FLOT regimen); Radiotherapy (adjuvant / palliative); Palliative care for advanced disease; Endoscopic stenting for obstruction\nFollow-up: Regular oncology follow-up; Monitor nutrition & weight; Manage complications; Psychosocial support",
+    "key_features": [
+      "Early satiety, bloating",
+      "Weight loss, anorexia",
+      "Epigastric discomfort",
+      "Anemia, occult bleeding",
+      "More common in >70 yrs",
+      "Alarm symptoms common"
+    ],
+    "red_flags": [
+      "Significant weight loss",
+      "Gastrointestinal bleeding (hematemesis / melena / hematochezia)",
+      "Progressive dysphagia",
+      "Persistent vomiting",
+      "Severe abdominal pain with guarding or rigidity",
+      "Iron deficiency anemia (unexplained)",
+      "Obstructive symptoms",
+      "Jaundice",
+      "Altered mental status"
+    ],
+    "metadata": {
+      "investigations": [
+        "Upper GI endoscopy with biopsy",
+        "CT abdomen (staging)",
+        "CBC, LFT, tumor markers (CEA, CA19-9)"
+      ],
+      "management_conservative": [
+        "Nutritional support",
+        "Treat anemia",
+        "Pain control",
+        "PPI for symptom relief"
+      ],
+      "management_advanced": [
+        "Multidisciplinary approach",
+        "Surgery (if early & resectable)",
+        "Chemotherapy (e.g., FLOT regimen)",
+        "Radiotherapy (adjuvant / palliative)",
+        "Palliative care for advanced disease",
+        "Endoscopic stenting for obstruction"
+      ],
+      "management_follow_up": [
+        "Regular oncology follow-up",
+        "Monitor nutrition & weight",
+        "Manage complications",
+        "Psychosocial support"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_abdominal_discomfort_elderly::bowel-cancer-colorectal-cancer",
+    "doc_id": "clinical_guidelines_abdominal_discomfort_elderly",
+    "source_title": "Guideline Based Management of Abdominal Discomfort in Elderly: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Bowel Cancer (Colorectal Cancer)",
+    "text": "Condition: Bowel Cancer (Colorectal Cancer)\nKey features: Change in bowel habits; Rectal bleeding; Abdominal discomfort; Iron deficiency anemia; Weight loss, fatigue; High prevalence in elderly\nInvestigations: Colonoscopy with biopsy; CEA level; CT abdomen/pelvis (staging)\nInitial/conservative management: Nutritional assessment; Treat anemia; Pain relief; Bowel regimen\nAdvanced/specific management: Surgery (curative if early stage); Chemotherapy (adjuvant / palliative); Radiotherapy (rectal cancer); Targeted therapy (selected cases); Palliative stoma for obstruction\nFollow-up: Surveillance colonoscopy (as per guidelines); Monitor CEA; Manage side effects of treatment; Supportive care",
+    "key_features": [
+      "Change in bowel habits",
+      "Rectal bleeding",
+      "Abdominal discomfort",
+      "Iron deficiency anemia",
+      "Weight loss, fatigue",
+      "High prevalence in elderly"
+    ],
+    "red_flags": [
+      "Significant weight loss",
+      "Gastrointestinal bleeding (hematemesis / melena / hematochezia)",
+      "Progressive dysphagia",
+      "Persistent vomiting",
+      "Severe abdominal pain with guarding or rigidity",
+      "Iron deficiency anemia (unexplained)",
+      "Obstructive symptoms",
+      "Jaundice",
+      "Altered mental status"
+    ],
+    "metadata": {
+      "investigations": [
+        "Colonoscopy with biopsy",
+        "CEA level",
+        "CT abdomen/pelvis (staging)"
+      ],
+      "management_conservative": [
+        "Nutritional assessment",
+        "Treat anemia",
+        "Pain relief",
+        "Bowel regimen"
+      ],
+      "management_advanced": [
+        "Surgery (curative if early stage)",
+        "Chemotherapy (adjuvant / palliative)",
+        "Radiotherapy (rectal cancer)",
+        "Targeted therapy (selected cases)",
+        "Palliative stoma for obstruction"
+      ],
+      "management_follow_up": [
+        "Surveillance colonoscopy (as per guidelines)",
+        "Monitor CEA",
+        "Manage side effects of treatment",
+        "Supportive care"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_abdominal_discomfort_elderly::diverticulitis",
+    "doc_id": "clinical_guidelines_abdominal_discomfort_elderly",
+    "source_title": "Guideline Based Management of Abdominal Discomfort in Elderly: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Diverticulitis",
+    "text": "Condition: Diverticulitis\nKey features: LLQ pain; Fever, altered bowel habits; Nausea, bloating; May present with confusion in elderly; Consider perforation risk\nInvestigations: Clinical diagnosis; CT abdomen/pelvis with contrast (gold standard); CBC, CRP\nInitial/conservative management: Mild (uncomplicated): Oral antibiotics (e.g., Amoxicillin-Clavulanate or Ciprofloxacin + Metronidazole); Low residue diet; Hydration; Analgesia\nAdvanced/specific management: Severe / complicated: IV antibiotics; Abscess: percutaneous drainage; Peritonitis, fistula, obstruction: Surgical management; Elective surgery for recurrent episodes\nFollow-up: Monitor symptoms; Colonoscopy after recovery (6-8 weeks); High fibre diet after recovery; Prevent constipation",
+    "key_features": [
+      "LLQ pain",
+      "Fever, altered bowel habits",
+      "Nausea, bloating",
+      "May present with confusion in elderly",
+      "Consider perforation risk"
+    ],
+    "red_flags": [
+      "Significant weight loss",
+      "Gastrointestinal bleeding (hematemesis / melena / hematochezia)",
+      "Progressive dysphagia",
+      "Persistent vomiting",
+      "Severe abdominal pain with guarding or rigidity",
+      "Iron deficiency anemia (unexplained)",
+      "Obstructive symptoms",
+      "Jaundice",
+      "Altered mental status"
+    ],
+    "metadata": {
+      "investigations": [
+        "Clinical diagnosis",
+        "CT abdomen/pelvis with contrast (gold standard)",
+        "CBC, CRP"
+      ],
+      "management_conservative": [
+        "Mild (uncomplicated): Oral antibiotics (e.g., Amoxicillin-Clavulanate or Ciprofloxacin + Metronidazole)",
+        "Low residue diet",
+        "Hydration",
+        "Analgesia"
+      ],
+      "management_advanced": [
+        "Severe / complicated: IV antibiotics",
+        "Abscess: percutaneous drainage",
+        "Peritonitis, fistula, obstruction: Surgical management",
+        "Elective surgery for recurrent episodes"
+      ],
+      "management_follow_up": [
+        "Monitor symptoms",
+        "Colonoscopy after recovery (6-8 weeks)",
+        "High fibre diet after recovery",
+        "Prevent constipation"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_abdominal_discomfort_elderly::bowel-obstruction",
+    "doc_id": "clinical_guidelines_abdominal_discomfort_elderly",
+    "source_title": "Guideline Based Management of Abdominal Discomfort in Elderly: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Bowel Obstruction",
+    "text": "Condition: Bowel Obstruction\nKey features: Colicky abdominal pain; Vomiting; Abdominal distension; Constipation / obstipation; High risk in elderly (adhesions, hernia, tumors)\nInvestigations: Clinical diagnosis; X-ray abdomen (erect); CT abdomen (if unclear); Labs (U&E, CBC)\nInitial/conservative management: NPO (nil by mouth); IV fluids & electrolytes; Nasogastric decompression; Analgesia; Treat underlying cause if infection\nAdvanced/specific management: Conservative management: adhesive obstruction (no strangulation); Surgery for bowel strangulation, ischemia, perforation, or failure of conservative therapy; Endoscopic stenting (selected cases)\nFollow-up: Monitor vitals, abdominal signs; Repeat imaging if no improvement; Nutritional support; Prevent recurrence",
+    "key_features": [
+      "Colicky abdominal pain",
+      "Vomiting",
+      "Abdominal distension",
+      "Constipation / obstipation",
+      "High risk in elderly (adhesions, hernia, tumors)"
+    ],
+    "red_flags": [
+      "Significant weight loss",
+      "Gastrointestinal bleeding (hematemesis / melena / hematochezia)",
+      "Progressive dysphagia",
+      "Persistent vomiting",
+      "Severe abdominal pain with guarding or rigidity",
+      "Iron deficiency anemia (unexplained)",
+      "Obstructive symptoms",
+      "Jaundice",
+      "Altered mental status"
+    ],
+    "metadata": {
+      "investigations": [
+        "Clinical diagnosis",
+        "X-ray abdomen (erect)",
+        "CT abdomen (if unclear)",
+        "Labs (U&E, CBC)"
+      ],
+      "management_conservative": [
+        "NPO (nil by mouth)",
+        "IV fluids & electrolytes",
+        "Nasogastric decompression",
+        "Analgesia",
+        "Treat underlying cause if infection"
+      ],
+      "management_advanced": [
+        "Conservative management: adhesive obstruction (no strangulation)",
+        "Surgery for bowel strangulation, ischemia, perforation, or failure of conservative therapy",
+        "Endoscopic stenting (selected cases)"
+      ],
+      "management_follow_up": [
+        "Monitor vitals, abdominal signs",
+        "Repeat imaging if no improvement",
+        "Nutritional support",
+        "Prevent recurrence"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_headache::migraines",
+    "doc_id": "clinical_guidelines_headache",
+    "source_title": "Evaluation of Headache in Adults: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Migraines",
+    "text": "Condition: Migraines\nKey features: Unilateral, throbbing; Moderate to severe; Nausea / vomiting; Photophobia / phonophobia; Aura (visual, sensory) may precede; Worse with activity\nInvestigations: Usually clinical; Neuroimaging if atypical features or red flags\nInitial/conservative management: Trigger avoidance; Regular sleep & meals; Hydration; Stress management; Relaxation therapy; Biofeedback\nAdvanced/specific management: Ibuprofen 400-800 mg PO stat, then 400-800 mg q6-8h PRN (max 2400 mg/day) - up to 3-5 days; Sumatriptan 50-100 mg PO at onset; may repeat 50-100 mg after 2 h (max 200 mg/24 h) - up to 2 days/week; Metoclopramide 10 mg PO/IV q8h PRN for nausea - up to 3 days; Topiramate 25 mg HS titrate to 50-100 mg/day - >= 3 months; Propranolol 20 mg BID titrate to 40-80 mg BID - >= 3 months; Amitriptyline 10-25 mg HS titrate to 25-75 mg HS - >= 3 months\nDifferential red flags: Sudden severe onset; Neurological deficit; New onset > 50 yrs; Change in pattern; Fever / stiff neck",
+    "key_features": [
+      "Unilateral, throbbing",
+      "Moderate to severe",
+      "Nausea / vomiting",
+      "Photophobia / phonophobia",
+      "Aura (visual, sensory) may precede",
+      "Worse with activity"
+    ],
+    "red_flags": [
+      "Sudden onset (thunderclap)",
+      "Neurological deficit",
+      "New onset > 50 years",
+      "Fever / stiff neck",
+      "Seizures",
+      "Progressive worsening",
+      "Change in pattern",
+      "Persistent vomiting"
+    ],
+    "metadata": {
+      "investigations": [
+        "Usually clinical",
+        "Neuroimaging if atypical features or red flags"
+      ],
+      "management_conservative": [
+        "Trigger avoidance",
+        "Regular sleep & meals",
+        "Hydration",
+        "Stress management",
+        "Relaxation therapy",
+        "Biofeedback"
+      ],
+      "management_advanced": [
+        "Ibuprofen 400-800 mg PO stat, then 400-800 mg q6-8h PRN (max 2400 mg/day) - up to 3-5 days",
+        "Sumatriptan 50-100 mg PO at onset; may repeat 50-100 mg after 2 h (max 200 mg/24 h) - up to 2 days/week",
+        "Metoclopramide 10 mg PO/IV q8h PRN for nausea - up to 3 days",
+        "Topiramate 25 mg HS titrate to 50-100 mg/day - >= 3 months",
+        "Propranolol 20 mg BID titrate to 40-80 mg BID - >= 3 months",
+        "Amitriptyline 10-25 mg HS titrate to 25-75 mg HS - >= 3 months"
+      ],
+      "management_follow_up": [],
+      "differential_red_flags": [
+        "Sudden severe onset",
+        "Neurological deficit",
+        "New onset > 50 yrs",
+        "Change in pattern",
+        "Fever / stiff neck"
+      ]
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_headache::cluster-headache",
+    "doc_id": "clinical_guidelines_headache",
+    "source_title": "Evaluation of Headache in Adults: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Cluster Headache",
+    "text": "Condition: Cluster Headache\nKey features: Severe, unilateral (around eye); Sharp / piercing; Lasts 15-180 min; Red eye, tearing, nasal congestion; Restlessness / agitation; Occurs in clusters\nInvestigations: Usually clinical; Imaging to rule out secondary causes if atypical\nInitial/conservative management: Avoid alcohol during cluster period; Regular sleep; Stress reduction; Identify & avoid triggers\nAdvanced/specific management: Sumatriptan 6 mg SC stat; may repeat after 1 h (max 12 mg/24 h) - up to 2 attacks/day; Zolmitriptan 5 mg nasal spray stat; may repeat after 2 h (max 10 mg/24 h); Oxygen 100% via non-rebreather mask 12-15 L/min for 15-20 min - each attack; Verapamil 80 mg TID titrate to 240-960 mg/day - >= 6-8 weeks; Prednisone 60 mg daily taper over 2-3 weeks (short term bridge)\nDifferential red flags: New onset > 40 yrs; Neurological deficit; Change in pattern; Persistent outside cluster periods",
+    "key_features": [
+      "Severe, unilateral (around eye)",
+      "Sharp / piercing",
+      "Lasts 15-180 min",
+      "Red eye, tearing, nasal congestion",
+      "Restlessness / agitation",
+      "Occurs in clusters"
+    ],
+    "red_flags": [
+      "Sudden onset (thunderclap)",
+      "Neurological deficit",
+      "New onset > 50 years",
+      "Fever / stiff neck",
+      "Seizures",
+      "Progressive worsening",
+      "Change in pattern",
+      "Persistent vomiting"
+    ],
+    "metadata": {
+      "investigations": [
+        "Usually clinical",
+        "Imaging to rule out secondary causes if atypical"
+      ],
+      "management_conservative": [
+        "Avoid alcohol during cluster period",
+        "Regular sleep",
+        "Stress reduction",
+        "Identify & avoid triggers"
+      ],
+      "management_advanced": [
+        "Sumatriptan 6 mg SC stat; may repeat after 1 h (max 12 mg/24 h) - up to 2 attacks/day",
+        "Zolmitriptan 5 mg nasal spray stat; may repeat after 2 h (max 10 mg/24 h)",
+        "Oxygen 100% via non-rebreather mask 12-15 L/min for 15-20 min - each attack",
+        "Verapamil 80 mg TID titrate to 240-960 mg/day - >= 6-8 weeks",
+        "Prednisone 60 mg daily taper over 2-3 weeks (short term bridge)"
+      ],
+      "management_follow_up": [],
+      "differential_red_flags": [
+        "New onset > 40 yrs",
+        "Neurological deficit",
+        "Change in pattern",
+        "Persistent outside cluster periods"
+      ]
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_headache::tension-headache",
+    "doc_id": "clinical_guidelines_headache",
+    "source_title": "Evaluation of Headache in Adults: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Tension Headache",
+    "text": "Condition: Tension Headache\nKey features: Bilateral, pressing / tightening; Mild to moderate; Not aggravated by routine activity; No nausea / vomiting; Stress / fatigue related\nInvestigations: Usually clinical; Imaging if red flags or atypical features\nInitial/conservative management: Stress management; Ergonomic correction; Regular exercise; Adequate sleep; Relaxation therapy\nAdvanced/specific management: Paracetamol 500-1000 mg PO q6h PRN (max 3 g/day) - up to 7 days; Ibuprofen 200-400 mg PO q6-8h PRN (max 1200 mg/day) - up to 7 days; Amitriptyline 10-25 mg HS titrate to 25-75 mg HS - >= 2-3 months; Mirtazapine 15 mg HS - >= 2-3 months\nDifferential red flags: Sudden severe onset; Neurological deficit; New onset > 50 yrs; Fever / stiff neck",
+    "key_features": [
+      "Bilateral, pressing / tightening",
+      "Mild to moderate",
+      "Not aggravated by routine activity",
+      "No nausea / vomiting",
+      "Stress / fatigue related"
+    ],
+    "red_flags": [
+      "Sudden onset (thunderclap)",
+      "Neurological deficit",
+      "New onset > 50 years",
+      "Fever / stiff neck",
+      "Seizures",
+      "Progressive worsening",
+      "Change in pattern",
+      "Persistent vomiting"
+    ],
+    "metadata": {
+      "investigations": [
+        "Usually clinical",
+        "Imaging if red flags or atypical features"
+      ],
+      "management_conservative": [
+        "Stress management",
+        "Ergonomic correction",
+        "Regular exercise",
+        "Adequate sleep",
+        "Relaxation therapy"
+      ],
+      "management_advanced": [
+        "Paracetamol 500-1000 mg PO q6h PRN (max 3 g/day) - up to 7 days",
+        "Ibuprofen 200-400 mg PO q6-8h PRN (max 1200 mg/day) - up to 7 days",
+        "Amitriptyline 10-25 mg HS titrate to 25-75 mg HS - >= 2-3 months",
+        "Mirtazapine 15 mg HS - >= 2-3 months"
+      ],
+      "management_follow_up": [],
+      "differential_red_flags": [
+        "Sudden severe onset",
+        "Neurological deficit",
+        "New onset > 50 yrs",
+        "Fever / stiff neck"
+      ]
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_headache::brain-tumour",
+    "doc_id": "clinical_guidelines_headache",
+    "source_title": "Evaluation of Headache in Adults: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Brain Tumour",
+    "text": "Condition: Brain Tumour\nKey features: Progressive headache; Worse in morning; Vomiting; Seizures; Focal neurological deficit; Personality / cognitive changes\nInvestigations: MRI brain with contrast; CT scan (if MRI not available); Neurological exam\nInitial/conservative management: Supportive care; Seizure precautions; Cognitive support; Psychological support\nDifferential red flags: Progressive worsening; Neurological deficit; New onset > 50 yrs; Seizures; Change in behavior / cognition",
+    "key_features": [
+      "Progressive headache",
+      "Worse in morning",
+      "Vomiting",
+      "Seizures",
+      "Focal neurological deficit",
+      "Personality / cognitive changes"
+    ],
+    "red_flags": [
+      "Sudden onset (thunderclap)",
+      "Neurological deficit",
+      "New onset > 50 years",
+      "Fever / stiff neck",
+      "Seizures",
+      "Progressive worsening",
+      "Change in pattern",
+      "Persistent vomiting"
+    ],
+    "metadata": {
+      "investigations": [
+        "MRI brain with contrast",
+        "CT scan (if MRI not available)",
+        "Neurological exam"
+      ],
+      "management_conservative": [
+        "Supportive care",
+        "Seizure precautions",
+        "Cognitive support",
+        "Psychological support"
+      ],
+      "management_advanced": [],
+      "management_follow_up": [],
+      "differential_red_flags": [
+        "Progressive worsening",
+        "Neurological deficit",
+        "New onset > 50 yrs",
+        "Seizures",
+        "Change in behavior / cognition"
+      ]
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_headache::acute-angle-closure-glaucoma",
+    "doc_id": "clinical_guidelines_headache",
+    "source_title": "Evaluation of Headache in Adults: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Acute Angle Closure Glaucoma",
+    "text": "Condition: Acute Angle Closure Glaucoma\nKey features: Severe eye pain; Headache (often unilateral); Blurred vision / halos around lights; Nausea / vomiting; Red eye\nInvestigations: Intraocular pressure measurement; Slit lamp exam; Ophthalmology consult\nInitial/conservative management: Avoid dark rooms; Immediate ophthalmology referral; Patient education\nDifferential red flags: Sudden onset; Visual disturbance; Halos around lights; Nausea / vomiting",
+    "key_features": [
+      "Severe eye pain",
+      "Headache (often unilateral)",
+      "Blurred vision / halos around lights",
+      "Nausea / vomiting",
+      "Red eye"
+    ],
+    "red_flags": [
+      "Sudden onset (thunderclap)",
+      "Neurological deficit",
+      "New onset > 50 years",
+      "Fever / stiff neck",
+      "Seizures",
+      "Progressive worsening",
+      "Change in pattern",
+      "Persistent vomiting"
+    ],
+    "metadata": {
+      "investigations": [
+        "Intraocular pressure measurement",
+        "Slit lamp exam",
+        "Ophthalmology consult"
+      ],
+      "management_conservative": [
+        "Avoid dark rooms",
+        "Immediate ophthalmology referral",
+        "Patient education"
+      ],
+      "management_advanced": [],
+      "management_follow_up": [],
+      "differential_red_flags": [
+        "Sudden onset",
+        "Visual disturbance",
+        "Halos around lights",
+        "Nausea / vomiting"
+      ]
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_headache::drug-induced-headache",
+    "doc_id": "clinical_guidelines_headache",
+    "source_title": "Evaluation of Headache in Adults: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Drug Induced Headache",
+    "text": "Condition: Drug Induced Headache\nKey features: Temporal relation to drug initiation or dose change; Variable pattern; May mimic migraines or tension headaches\nInvestigations: Detailed drug history; Review recent changes; Imaging if red flags\nInitial/conservative management: Medication review; Avoid overuse of analgesics; Patient counseling\nDifferential red flags: New neurological symptoms; Severe or worsening pattern",
+    "key_features": [
+      "Temporal relation to drug initiation or dose change",
+      "Variable pattern",
+      "May mimic migraines or tension headaches"
+    ],
+    "red_flags": [
+      "Sudden onset (thunderclap)",
+      "Neurological deficit",
+      "New onset > 50 years",
+      "Fever / stiff neck",
+      "Seizures",
+      "Progressive worsening",
+      "Change in pattern",
+      "Persistent vomiting"
+    ],
+    "metadata": {
+      "investigations": [
+        "Detailed drug history",
+        "Review recent changes",
+        "Imaging if red flags"
+      ],
+      "management_conservative": [
+        "Medication review",
+        "Avoid overuse of analgesics",
+        "Patient counseling"
+      ],
+      "management_advanced": [],
+      "management_follow_up": [],
+      "differential_red_flags": [
+        "New neurological symptoms",
+        "Severe or worsening pattern"
+      ]
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_headache::thunderclap-headache",
+    "doc_id": "clinical_guidelines_headache",
+    "source_title": "Evaluation of Headache in Adults: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Thunderclap Headache",
+    "text": "Condition: Thunderclap Headache\nKey features: Sudden onset; Severe (worst ever); Peaks in seconds; May be associated with neurological symptoms\nInvestigations: CT brain (urgent); Lumbar puncture; CT / MR angiography; Rule out SAH\nInitial/conservative management: Emergency care; Monitor vitals; Neurosurgical / neurology consult\nDifferential red flags: Sudden explosive onset; Neck stiffness; Loss of consciousness; Neurological deficit",
+    "key_features": [
+      "Sudden onset",
+      "Severe (worst ever)",
+      "Peaks in seconds",
+      "May be associated with neurological symptoms"
+    ],
+    "red_flags": [
+      "Sudden onset (thunderclap)",
+      "Neurological deficit",
+      "New onset > 50 years",
+      "Fever / stiff neck",
+      "Seizures",
+      "Progressive worsening",
+      "Change in pattern",
+      "Persistent vomiting"
+    ],
+    "metadata": {
+      "investigations": [
+        "CT brain (urgent)",
+        "Lumbar puncture",
+        "CT / MR angiography",
+        "Rule out SAH"
+      ],
+      "management_conservative": [
+        "Emergency care",
+        "Monitor vitals",
+        "Neurosurgical / neurology consult"
+      ],
+      "management_advanced": [],
+      "management_follow_up": [],
+      "differential_red_flags": [
+        "Sudden explosive onset",
+        "Neck stiffness",
+        "Loss of consciousness",
+        "Neurological deficit"
+      ]
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_headache::chronic-sinusitis",
+    "doc_id": "clinical_guidelines_headache",
+    "source_title": "Evaluation of Headache in Adults: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Chronic Sinusitis",
+    "text": "Condition: Chronic Sinusitis\nKey features: Facial pain / pressure; Nasal congestion; Purulent nasal discharge; Postnasal drip; Worse when bending forward\nInvestigations: Clinical exam; Nasal endoscopy; CT paranasal sinuses\nInitial/conservative management: Steam inhalation; Hydration; Allergy management; Avoid irritants; Saline nasal irrigation\nDifferential red flags: Orbital / neurological complications; Persistent high fever; Severe facial swelling",
+    "key_features": [
+      "Facial pain / pressure",
+      "Nasal congestion",
+      "Purulent nasal discharge",
+      "Postnasal drip",
+      "Worse when bending forward"
+    ],
+    "red_flags": [
+      "Sudden onset (thunderclap)",
+      "Neurological deficit",
+      "New onset > 50 years",
+      "Fever / stiff neck",
+      "Seizures",
+      "Progressive worsening",
+      "Change in pattern",
+      "Persistent vomiting"
+    ],
+    "metadata": {
+      "investigations": [
+        "Clinical exam",
+        "Nasal endoscopy",
+        "CT paranasal sinuses"
+      ],
+      "management_conservative": [
+        "Steam inhalation",
+        "Hydration",
+        "Allergy management",
+        "Avoid irritants",
+        "Saline nasal irrigation"
+      ],
+      "management_advanced": [],
+      "management_follow_up": [],
+      "differential_red_flags": [
+        "Orbital / neurological complications",
+        "Persistent high fever",
+        "Severe facial swelling"
+      ]
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_headache::uncontrolled-hypertension",
+    "doc_id": "clinical_guidelines_headache",
+    "source_title": "Evaluation of Headache in Adults: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Uncontrolled Hypertension",
+    "text": "Condition: Uncontrolled Hypertension\nKey features: Dull, throbbing headache (often occipital); Associated with dizziness; Blurred vision; Fatigue; BP usually markedly elevated\nInvestigations: BP measurement; Fundoscopy; Renal function tests; ECG; Urinalysis\nInitial/conservative management: Lifestyle modification; Salt restriction; Regular monitoring; Medication adherence\nDifferential red flags: BP > 180/120 mmHg; Chest pain; Breathlessness; Neurological deficit; Papilledema",
+    "key_features": [
+      "Dull, throbbing headache (often occipital)",
+      "Associated with dizziness",
+      "Blurred vision",
+      "Fatigue",
+      "BP usually markedly elevated"
+    ],
+    "red_flags": [
+      "Sudden onset (thunderclap)",
+      "Neurological deficit",
+      "New onset > 50 years",
+      "Fever / stiff neck",
+      "Seizures",
+      "Progressive worsening",
+      "Change in pattern",
+      "Persistent vomiting"
+    ],
+    "metadata": {
+      "investigations": [
+        "BP measurement",
+        "Fundoscopy",
+        "Renal function tests",
+        "ECG",
+        "Urinalysis"
+      ],
+      "management_conservative": [
+        "Lifestyle modification",
+        "Salt restriction",
+        "Regular monitoring",
+        "Medication adherence"
+      ],
+      "management_advanced": [],
+      "management_follow_up": [],
+      "differential_red_flags": [
+        "BP > 180/120 mmHg",
+        "Chest pain",
+        "Breathlessness",
+        "Neurological deficit",
+        "Papilledema"
+      ]
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_primary_dysmenorrhea::mild-primary-dysmenorrhea-minimal-impact-on-daily-activities",
+    "doc_id": "clinical_guidelines_primary_dysmenorrhea",
+    "source_title": "Guideline Based Management of Primary Dysmenorrhea: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Mild Primary Dysmenorrhea (Minimal impact on daily activities)",
+    "text": "Condition: Mild Primary Dysmenorrhea (Minimal impact on daily activities)\nKey features: Cramping lower abdominal pain at onset of menses; Mild-moderate intensity; Little or no interference with daily activities; No associated significant symptoms\nInitial/conservative management: Non-Pharmacologic Measures: Education & reassurance, Heat therapy, Regular exercise, Adequate sleep, Stress reduction (yoga, relaxation), Dietary measures\nAdvanced/specific management: Second-Line / Adjunctive (If inadequate relief): NSAIDs (Ibuprofen, Mefenamic acid, Naproxen, Diclofenac) starting at onset or 1-2 days before menses; Third-Line Options (If persistent pain): Different NSAID agent or dose optimization, Add antispasmodic (e.g., Drotaverine), Magnesium supplement, Vitamin B1 / E\nFollow-up: Review in 3-6 months; Assess pain relief, side effects & adherence; Encourage continuation of non-pharmacologic measures; Return earlier if worsening or new symptoms",
+    "key_features": [
+      "Cramping lower abdominal pain at onset of menses",
+      "Mild-moderate intensity",
+      "Little or no interference with daily activities",
+      "No associated significant symptoms"
+    ],
+    "red_flags": [
+      "Pain not limited to menses",
+      "Progressively worsening pain",
+      "Abnormal uterine bleeding",
+      "Pain during or after intercourse",
+      "Infertility",
+      "Malodorous vaginal discharge",
+      "Fever, chills",
+      "Severe GI / urinary symptoms",
+      "Postmenopausal bleeding",
+      "No response to adequate therapy",
+      "Suspicion of pregnancy"
+    ],
+    "metadata": {
+      "investigations": [],
+      "management_conservative": [
+        "Non-Pharmacologic Measures: Education & reassurance, Heat therapy, Regular exercise, Adequate sleep, Stress reduction (yoga, relaxation), Dietary measures"
+      ],
+      "management_advanced": [
+        "Second-Line / Adjunctive (If inadequate relief): NSAIDs (Ibuprofen, Mefenamic acid, Naproxen, Diclofenac) starting at onset or 1-2 days before menses",
+        "Third-Line Options (If persistent pain): Different NSAID agent or dose optimization, Add antispasmodic (e.g., Drotaverine), Magnesium supplement, Vitamin B1 / E"
+      ],
+      "management_follow_up": [
+        "Review in 3-6 months",
+        "Assess pain relief, side effects & adherence",
+        "Encourage continuation of non-pharmacologic measures",
+        "Return earlier if worsening or new symptoms"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_primary_dysmenorrhea::moderate-primary-dysmenorrhea-interferes-with-some-activities",
+    "doc_id": "clinical_guidelines_primary_dysmenorrhea",
+    "source_title": "Guideline Based Management of Primary Dysmenorrhea: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Moderate Primary Dysmenorrhea (Interferes with some activities)",
+    "text": "Condition: Moderate Primary Dysmenorrhea (Interferes with some activities)\nKey features: Moderate to severe cramps; Interferes with school, work or routine activities; May have nausea, vomiting, headache, diarrhoea, backache; Responds to self-care partially\nInitial/conservative management: Non-Pharmacologic Measures (as above); NSAIDs (First-line pharmacologic): Start early at onset or 1-2 days before menses\nAdvanced/specific management: Second-Line / Adjunctive (If inadequate relief): Switch/optimize NSAID, Add antispasmodic, Consider Tranexamic acid (if heavy bleeding), Magnesium / Vitamin B1 / E; Third-Line Options (If persistent pain): COCPs (cyclic or extended), Progestin-only pills, LNG-IUS, Lifestyle & stress management support\nFollow-up: Review in 3-6 months; Assess pain score, function & satisfaction; Monitor side effects; Reinforce adherence & non-pharmacologic measures; Step up if inadequate relief",
+    "key_features": [
+      "Moderate to severe cramps",
+      "Interferes with school, work or routine activities",
+      "May have nausea, vomiting, headache, diarrhoea, backache",
+      "Responds to self-care partially"
+    ],
+    "red_flags": [
+      "Pain not limited to menses",
+      "Progressively worsening pain",
+      "Abnormal uterine bleeding",
+      "Pain during or after intercourse",
+      "Infertility",
+      "Malodorous vaginal discharge",
+      "Fever, chills",
+      "Severe GI / urinary symptoms",
+      "Postmenopausal bleeding",
+      "No response to adequate therapy",
+      "Suspicion of pregnancy"
+    ],
+    "metadata": {
+      "investigations": [],
+      "management_conservative": [
+        "Non-Pharmacologic Measures (as above)",
+        "NSAIDs (First-line pharmacologic): Start early at onset or 1-2 days before menses"
+      ],
+      "management_advanced": [
+        "Second-Line / Adjunctive (If inadequate relief): Switch/optimize NSAID, Add antispasmodic, Consider Tranexamic acid (if heavy bleeding), Magnesium / Vitamin B1 / E",
+        "Third-Line Options (If persistent pain): COCPs (cyclic or extended), Progestin-only pills, LNG-IUS, Lifestyle & stress management support"
+      ],
+      "management_follow_up": [
+        "Review in 3-6 months",
+        "Assess pain score, function & satisfaction",
+        "Monitor side effects",
+        "Reinforce adherence & non-pharmacologic measures",
+        "Step up if inadequate relief"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_primary_dysmenorrhea::severe-primary-dysmenorrhea-marked-impact-bed-rest",
+    "doc_id": "clinical_guidelines_primary_dysmenorrhea",
+    "source_title": "Guideline Based Management of Primary Dysmenorrhea: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Severe Primary Dysmenorrhea (Marked impact / bed rest)",
+    "text": "Condition: Severe Primary Dysmenorrhea (Marked impact / bed rest)\nKey features: Severe cramping pain; Marked interference with daily activities / school or work absenteeism; Associated symptoms prominent (nausea, vomiting, diarrhoea, headache, fatigue); Minimal relief with self-care\nInitial/conservative management: NSAIDs (First-line): Adequate dose, early initiation for 2-3 days; Combine with non-pharmacologic measures; Consider antiemetic if severe nausea / vomiting\nAdvanced/specific management: Second-Line / Adjunctive (If inadequate relief): Switch to another NSAID or higher dose, Add antispasmodic, Add tranexamic acid, Short course simple analgesic (paracetamol) as adjunct; Third-Line Options (Hormonal Therapy): COCPs (cyclic / extended), LNG-IUS, Progestin-only options (e.g., DMPA, implant), Consider GnRH agonist (rare; refractory cases under specialist care)\nFollow-up: Review in 3 months; Assess pain relief, quality of life & side effects; Monitor BP (if on COCP), weight, mood; If inadequate relief, reassess for secondary causes",
+    "key_features": [
+      "Severe cramping pain",
+      "Marked interference with daily activities / school or work absenteeism",
+      "Associated symptoms prominent (nausea, vomiting, diarrhoea, headache, fatigue)",
+      "Minimal relief with self-care"
+    ],
+    "red_flags": [
+      "Pain not limited to menses",
+      "Progressively worsening pain",
+      "Abnormal uterine bleeding",
+      "Pain during or after intercourse",
+      "Infertility",
+      "Malodorous vaginal discharge",
+      "Fever, chills",
+      "Severe GI / urinary symptoms",
+      "Postmenopausal bleeding",
+      "No response to adequate therapy",
+      "Suspicion of pregnancy"
+    ],
+    "metadata": {
+      "investigations": [],
+      "management_conservative": [
+        "NSAIDs (First-line): Adequate dose, early initiation for 2-3 days",
+        "Combine with non-pharmacologic measures",
+        "Consider antiemetic if severe nausea / vomiting"
+      ],
+      "management_advanced": [
+        "Second-Line / Adjunctive (If inadequate relief): Switch to another NSAID or higher dose, Add antispasmodic, Add tranexamic acid, Short course simple analgesic (paracetamol) as adjunct",
+        "Third-Line Options (Hormonal Therapy): COCPs (cyclic / extended), LNG-IUS, Progestin-only options (e.g., DMPA, implant), Consider GnRH agonist (rare; refractory cases under specialist care)"
+      ],
+      "management_follow_up": [
+        "Review in 3 months",
+        "Assess pain relief, quality of life & side effects",
+        "Monitor BP (if on COCP), weight, mood",
+        "If inadequate relief, reassess for secondary causes"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_primary_dysmenorrhea::refractory-treatment-failure-no-adequate-relief-despite-optimal-therapy",
+    "doc_id": "clinical_guidelines_primary_dysmenorrhea",
+    "source_title": "Guideline Based Management of Primary Dysmenorrhea: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Refractory / Treatment Failure (No adequate relief despite optimal therapy)",
+    "text": "Condition: Refractory / Treatment Failure (No adequate relief despite optimal therapy)\nKey features: Persistent pain despite optimal medical therapy (3-6 months); Significant impact on quality of life; Consider possibility of secondary dysmenorrhea\nInitial/conservative management: Reassess: Confirm diagnosis, Review adherence, Assess severity & pattern, Rule out secondary causes (endometriosis, adenomyosis) if atypical features present\nAdvanced/specific management: Adjunctive Options: Optimize hormonal therapy, Add adjuncts (neuromodulators e.g. amitriptyline, gabapentin), Pelvic floor physical therapy, Psychological support / CBT; Specialist Referral: Gynecologist / pain specialist, Consider diagnostic laparoscopy (if suspicion of endometriosis), Multidisciplinary approach\nFollow-up: Individualized follow-up; Monitor treatment response & adverse effects; Adjust plan as needed; Ensure reproductive counselling if required",
+    "key_features": [
+      "Persistent pain despite optimal medical therapy (3-6 months)",
+      "Significant impact on quality of life",
+      "Consider possibility of secondary dysmenorrhea"
+    ],
+    "red_flags": [
+      "Pain not limited to menses",
+      "Progressively worsening pain",
+      "Abnormal uterine bleeding",
+      "Pain during or after intercourse",
+      "Infertility",
+      "Malodorous vaginal discharge",
+      "Fever, chills",
+      "Severe GI / urinary symptoms",
+      "Postmenopausal bleeding",
+      "No response to adequate therapy",
+      "Suspicion of pregnancy"
+    ],
+    "metadata": {
+      "investigations": [],
+      "management_conservative": [
+        "Reassess: Confirm diagnosis, Review adherence, Assess severity & pattern, Rule out secondary causes (endometriosis, adenomyosis) if atypical features present"
+      ],
+      "management_advanced": [
+        "Adjunctive Options: Optimize hormonal therapy, Add adjuncts (neuromodulators e.g. amitriptyline, gabapentin), Pelvic floor physical therapy, Psychological support / CBT",
+        "Specialist Referral: Gynecologist / pain specialist, Consider diagnostic laparoscopy (if suspicion of endometriosis), Multidisciplinary approach"
+      ],
+      "management_follow_up": [
+        "Individualized follow-up",
+        "Monitor treatment response & adverse effects",
+        "Adjust plan as needed",
+        "Ensure reproductive counselling if required"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_primary_tremors::essential-tremor-et",
+    "doc_id": "clinical_guidelines_primary_tremors",
+    "source_title": "Guideline Based Management of Primary Tremors: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Essential Tremor (ET)",
+    "text": "Condition: Essential Tremor (ET)\nKey features: Bilateral action tremor (postural > kinetic); Usually in hands, may involve head, voice; Gradual onset; Family history common; Improves with small amount of alcohol\nInitial/conservative management: Non-pharmacologic: Reassurance, Avoid caffeine & stimulants; Adequate sleep; Stress management; Occupational therapy; Weighted utensils\nAdvanced/specific management: First-line (Pharmacologic): Propranolol 40-240 mg/day (start low, titrate) OR Primidone 25-250 mg/day (start low, titrate); Combination therapy if inadequate response; Topiramate, Gabapentin, Pregabalin\nFollow-up: Review in 4-6 weeks; Assess tremor severity, ADL impact & side effects; Monitor HR & BP (if on beta-blockers); Long-term follow-up",
+    "key_features": [
+      "Bilateral action tremor (postural > kinetic)",
+      "Usually in hands, may involve head, voice",
+      "Gradual onset",
+      "Family history common",
+      "Improves with small amount of alcohol"
+    ],
+    "red_flags": [
+      "Acute onset tremor",
+      "Unilateral resting tremor with rapid progression",
+      "Tremor with weakness, numbness, vision change, ataxia",
+      "Tremor with altered consciousness",
+      "Suspected drug toxicity",
+      "Severe disability impacting ADLs",
+      "Suspected cerebellar lesion",
+      "Tremor in child or adolescent",
+      "Signs of Wilson's disease (young age, liver disease)"
+    ],
+    "metadata": {
+      "investigations": [],
+      "management_conservative": [
+        "Non-pharmacologic: Reassurance, Avoid caffeine & stimulants",
+        "Adequate sleep",
+        "Stress management",
+        "Occupational therapy",
+        "Weighted utensils"
+      ],
+      "management_advanced": [
+        "First-line (Pharmacologic): Propranolol 40-240 mg/day (start low, titrate) OR Primidone 25-250 mg/day (start low, titrate)",
+        "Combination therapy if inadequate response",
+        "Topiramate, Gabapentin, Pregabalin"
+      ],
+      "management_follow_up": [
+        "Review in 4-6 weeks",
+        "Assess tremor severity, ADL impact & side effects",
+        "Monitor HR & BP (if on beta-blockers)",
+        "Long-term follow-up"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_primary_tremors::parkinsonian-tremor-resting-tremor",
+    "doc_id": "clinical_guidelines_primary_tremors",
+    "source_title": "Guideline Based Management of Primary Tremors: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Parkinsonian Tremor (Resting Tremor)",
+    "text": "Condition: Parkinsonian Tremor (Resting Tremor)\nKey features: Resting tremor (pill-rolling); Asymmetric onset; Decreases with voluntary movement; Associated bradykinesia, rigidity, postural instability\nInitial/conservative management: Confirm diagnosis; Evaluate for PD criteria; Review medications; Baseline counseling\nAdvanced/specific management: Levodopa/carbidopa (start low, titrate); Dopamine agonists; MAO-B inhibitors / COMT inhibitors; Physiotherapy; Advanced/refractory: Deep brain stimulation (STN/GPi), Apomorphine / Duodopa\nFollow-up: Review in 4-6 weeks; Monitor motor & non-motor symptoms; Watch for medication side effects; Regular neurologist follow-up",
+    "key_features": [
+      "Resting tremor (pill-rolling)",
+      "Asymmetric onset",
+      "Decreases with voluntary movement",
+      "Associated bradykinesia, rigidity, postural instability"
+    ],
+    "red_flags": [
+      "Acute onset tremor",
+      "Unilateral resting tremor with rapid progression",
+      "Tremor with weakness, numbness, vision change, ataxia",
+      "Tremor with altered consciousness",
+      "Suspected drug toxicity",
+      "Severe disability impacting ADLs",
+      "Suspected cerebellar lesion",
+      "Tremor in child or adolescent",
+      "Signs of Wilson's disease (young age, liver disease)"
+    ],
+    "metadata": {
+      "investigations": [],
+      "management_conservative": [
+        "Confirm diagnosis",
+        "Evaluate for PD criteria",
+        "Review medications",
+        "Baseline counseling"
+      ],
+      "management_advanced": [
+        "Levodopa/carbidopa (start low, titrate)",
+        "Dopamine agonists",
+        "MAO-B inhibitors / COMT inhibitors",
+        "Physiotherapy",
+        "Advanced/refractory: Deep brain stimulation (STN/GPi), Apomorphine / Duodopa"
+      ],
+      "management_follow_up": [
+        "Review in 4-6 weeks",
+        "Monitor motor & non-motor symptoms",
+        "Watch for medication side effects",
+        "Regular neurologist follow-up"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_primary_tremors::physiologic-tremor",
+    "doc_id": "clinical_guidelines_primary_tremors",
+    "source_title": "Guideline Based Management of Primary Tremors: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Physiologic Tremor",
+    "text": "Condition: Physiologic Tremor\nKey features: Low amplitude, high frequency; Present in all individuals; Enhanced by anxiety, fatigue, medications, caffeine, hyperthyroidism\nInitial/conservative management: Identify & remove triggers; Reassurance; Lifestyle modification; Treat underlying cause (e.g., hyperthyroidism)\nAdvanced/specific management: Usually no specific drug therapy required; If troublesome: Propranolol (10-40 mg PRN) for performance-related situations\nFollow-up: Review if persistent or worsening; Monitor after treating underlying cause",
+    "key_features": [
+      "Low amplitude, high frequency",
+      "Present in all individuals",
+      "Enhanced by anxiety, fatigue, medications, caffeine, hyperthyroidism"
+    ],
+    "red_flags": [
+      "Acute onset tremor",
+      "Unilateral resting tremor with rapid progression",
+      "Tremor with weakness, numbness, vision change, ataxia",
+      "Tremor with altered consciousness",
+      "Suspected drug toxicity",
+      "Severe disability impacting ADLs",
+      "Suspected cerebellar lesion",
+      "Tremor in child or adolescent",
+      "Signs of Wilson's disease (young age, liver disease)"
+    ],
+    "metadata": {
+      "investigations": [],
+      "management_conservative": [
+        "Identify & remove triggers",
+        "Reassurance",
+        "Lifestyle modification",
+        "Treat underlying cause (e.g., hyperthyroidism)"
+      ],
+      "management_advanced": [
+        "Usually no specific drug therapy required",
+        "If troublesome: Propranolol (10-40 mg PRN) for performance-related situations"
+      ],
+      "management_follow_up": [
+        "Review if persistent or worsening",
+        "Monitor after treating underlying cause"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_primary_tremors::enhanced-physiologic-situational-tremor",
+    "doc_id": "clinical_guidelines_primary_tremors",
+    "source_title": "Guideline Based Management of Primary Tremors: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Enhanced Physiologic / Situational Tremor",
+    "text": "Condition: Enhanced Physiologic / Situational Tremor\nKey features: Action or postural tremor; Situational (e.g., public speaking, fine tasks); Normal neuro exam\nInitial/conservative management: Reassurance; Relaxation techniques; Behavioral therapy / CBT; Skill training\nAdvanced/specific management: Propranolol 10-40 mg PRN; Short-term use only\nFollow-up: Review as needed; Ensure no progression of tremor",
+    "key_features": [
+      "Action or postural tremor",
+      "Situational (e.g., public speaking, fine tasks)",
+      "Normal neuro exam"
+    ],
+    "red_flags": [
+      "Acute onset tremor",
+      "Unilateral resting tremor with rapid progression",
+      "Tremor with weakness, numbness, vision change, ataxia",
+      "Tremor with altered consciousness",
+      "Suspected drug toxicity",
+      "Severe disability impacting ADLs",
+      "Suspected cerebellar lesion",
+      "Tremor in child or adolescent",
+      "Signs of Wilson's disease (young age, liver disease)"
+    ],
+    "metadata": {
+      "investigations": [],
+      "management_conservative": [
+        "Reassurance",
+        "Relaxation techniques",
+        "Behavioral therapy / CBT",
+        "Skill training"
+      ],
+      "management_advanced": [
+        "Propranolol 10-40 mg PRN",
+        "Short-term use only"
+      ],
+      "management_follow_up": [
+        "Review as needed",
+        "Ensure no progression of tremor"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_primary_tremors::cerebellar-tremor-intentional",
+    "doc_id": "clinical_guidelines_primary_tremors",
+    "source_title": "Guideline Based Management of Primary Tremors: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Cerebellar Tremor (Intentional)",
+    "text": "Condition: Cerebellar Tremor (Intentional)\nKey features: Action tremor (intention); Dysmetria; Associated with ataxia, dysarthria, nystagmus\nInitial/conservative management: Neurologic evaluation; MRI brain (if indicated); Identify & treat underlying cause\nAdvanced/specific management: Treat underlying disorder; Clonazepam or Primidone may help; Occupational & physiotherapy\nFollow-up: Regular neurologic follow-up; Monitor progression of ataxia & other signs",
+    "key_features": [
+      "Action tremor (intention)",
+      "Dysmetria",
+      "Associated with ataxia, dysarthria, nystagmus"
+    ],
+    "red_flags": [
+      "Acute onset tremor",
+      "Unilateral resting tremor with rapid progression",
+      "Tremor with weakness, numbness, vision change, ataxia",
+      "Tremor with altered consciousness",
+      "Suspected drug toxicity",
+      "Severe disability impacting ADLs",
+      "Suspected cerebellar lesion",
+      "Tremor in child or adolescent",
+      "Signs of Wilson's disease (young age, liver disease)"
+    ],
+    "metadata": {
+      "investigations": [],
+      "management_conservative": [
+        "Neurologic evaluation",
+        "MRI brain (if indicated)",
+        "Identify & treat underlying cause"
+      ],
+      "management_advanced": [
+        "Treat underlying disorder",
+        "Clonazepam or Primidone may help",
+        "Occupational & physiotherapy"
+      ],
+      "management_follow_up": [
+        "Regular neurologic follow-up",
+        "Monitor progression of ataxia & other signs"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_primary_tremors::dystonic-tremor",
+    "doc_id": "clinical_guidelines_primary_tremors",
+    "source_title": "Guideline Based Management of Primary Tremors: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Dystonic Tremor",
+    "text": "Condition: Dystonic Tremor\nKey features: Occurs in body part with dystonia; Task-specific; Abnormal postures\nInitial/conservative management: Treat underlying dystonia; Consider botulinum toxin (in focal dystonia); Physiotherapy\nAdvanced/specific management: Anticholinergics; Benzodiazepines; Botulinum toxin injections; Deep brain stimulation (in selected cases)\nFollow-up: Review in 4-6 weeks; Assess response & side effects",
+    "key_features": [
+      "Occurs in body part with dystonia",
+      "Task-specific",
+      "Abnormal postures"
+    ],
+    "red_flags": [
+      "Acute onset tremor",
+      "Unilateral resting tremor with rapid progression",
+      "Tremor with weakness, numbness, vision change, ataxia",
+      "Tremor with altered consciousness",
+      "Suspected drug toxicity",
+      "Severe disability impacting ADLs",
+      "Suspected cerebellar lesion",
+      "Tremor in child or adolescent",
+      "Signs of Wilson's disease (young age, liver disease)"
+    ],
+    "metadata": {
+      "investigations": [],
+      "management_conservative": [
+        "Treat underlying dystonia",
+        "Consider botulinum toxin (in focal dystonia)",
+        "Physiotherapy"
+      ],
+      "management_advanced": [
+        "Anticholinergics",
+        "Benzodiazepines",
+        "Botulinum toxin injections",
+        "Deep brain stimulation (in selected cases)"
+      ],
+      "management_follow_up": [
+        "Review in 4-6 weeks",
+        "Assess response & side effects"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_primary_tremors::drug-induced-tremor",
+    "doc_id": "clinical_guidelines_primary_tremors",
+    "source_title": "Guideline Based Management of Primary Tremors: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Drug-Induced Tremor",
+    "text": "Condition: Drug-Induced Tremor\nKey features: Tremor after starting drug; Often bilateral action tremor; Timing correlates with drug exposure\nInitial/conservative management: Review medication history; Stop or reduce offending drug if possible; Consider alternative\nAdvanced/specific management: Propranolol (if symptomatic); Treat underlying condition\nFollow-up: Review in 2-4 weeks; Ensure symptom resolution after drug adjustment",
+    "key_features": [
+      "Tremor after starting drug",
+      "Often bilateral action tremor",
+      "Timing correlates with drug exposure"
+    ],
+    "red_flags": [
+      "Acute onset tremor",
+      "Unilateral resting tremor with rapid progression",
+      "Tremor with weakness, numbness, vision change, ataxia",
+      "Tremor with altered consciousness",
+      "Suspected drug toxicity",
+      "Severe disability impacting ADLs",
+      "Suspected cerebellar lesion",
+      "Tremor in child or adolescent",
+      "Signs of Wilson's disease (young age, liver disease)"
+    ],
+    "metadata": {
+      "investigations": [],
+      "management_conservative": [
+        "Review medication history",
+        "Stop or reduce offending drug if possible",
+        "Consider alternative"
+      ],
+      "management_advanced": [
+        "Propranolol (if symptomatic)",
+        "Treat underlying condition"
+      ],
+      "management_follow_up": [
+        "Review in 2-4 weeks",
+        "Ensure symptom resolution after drug adjustment"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_primary_tremors::psychogenic-functional-tremor",
+    "doc_id": "clinical_guidelines_primary_tremors",
+    "source_title": "Guideline Based Management of Primary Tremors: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Psychogenic (Functional) Tremor",
+    "text": "Condition: Psychogenic (Functional) Tremor\nKey features: Variable tremor; Distractible / entrainable; Inconsistent findings; Associated with psychological stress\nInitial/conservative management: Educate & reassure; Explain diagnosis; Avoid unnecessary tests; Address psychological factors\nAdvanced/specific management: Cognitive behavioral therapy; Physiotherapy; Psychiatric evaluation (if needed)\nFollow-up: Regular follow-up; Monitor for improvement; Encourage active rehabilitation",
+    "key_features": [
+      "Variable tremor",
+      "Distractible / entrainable",
+      "Inconsistent findings",
+      "Associated with psychological stress"
+    ],
+    "red_flags": [
+      "Acute onset tremor",
+      "Unilateral resting tremor with rapid progression",
+      "Tremor with weakness, numbness, vision change, ataxia",
+      "Tremor with altered consciousness",
+      "Suspected drug toxicity",
+      "Severe disability impacting ADLs",
+      "Suspected cerebellar lesion",
+      "Tremor in child or adolescent",
+      "Signs of Wilson's disease (young age, liver disease)"
+    ],
+    "metadata": {
+      "investigations": [],
+      "management_conservative": [
+        "Educate & reassure",
+        "Explain diagnosis",
+        "Avoid unnecessary tests",
+        "Address psychological factors"
+      ],
+      "management_advanced": [
+        "Cognitive behavioral therapy",
+        "Physiotherapy",
+        "Psychiatric evaluation (if needed)"
+      ],
+      "management_follow_up": [
+        "Regular follow-up",
+        "Monitor for improvement",
+        "Encourage active rehabilitation"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_secondary_dysmenorrhoea::endometriosis",
+    "doc_id": "clinical_guidelines_secondary_dysmenorrhoea",
+    "source_title": "Guideline Based Management of Common and Red Flag Cases of Secondary Dysmenorrhoea: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Endometriosis",
+    "text": "Condition: Endometriosis\nKey features: Progressive dysmenorrhoea; Chronic pelvic pain; Deep dyspareunia; Infertility; Dyschezia / dysuria; Tender nodularity (POD)\nInvestigations: Clinical diagnosis; Pelvic ultrasound; MRI (if deep infiltrating); Laparoscopy (gold standard)\nInitial/conservative management: NSAIDs; Combined OCPs or Progestins (continuous); LNG-IUS; Tranexamic acid; Lifestyle & pain measures\nAdvanced/specific management: GnRH agonists / antagonists; Add-back therapy; Laparoscopic excision / ablation; Multidisciplinary care\nFollow-up: Review in 6-12 weeks; Monitor pain & bleeding; Assess fertility goals; Long-term follow-up for recurrence",
+    "key_features": [
+      "Progressive dysmenorrhoea",
+      "Chronic pelvic pain",
+      "Deep dyspareunia",
+      "Infertility",
+      "Dyschezia / dysuria",
+      "Tender nodularity (POD)"
+    ],
+    "red_flags": [
+      "Severe pain unrelieved by analgesics",
+      "Sudden onset severe pelvic pain",
+      "Fever >= 38C with pelvic pain",
+      "Foul-smelling discharge",
+      "Heavy bleeding with hemodynamic instability",
+      "Suspected ectopic pregnancy",
+      "Adnexal mass with suspected torsion",
+      "Weight loss, night sweats, persistent systemic symptoms",
+      "Postcoital bleeding / intermenstrual bleeding",
+      "Palpable pelvic mass / nodularity",
+      "Failure to improve after 3 months of appropriate treatment",
+      "Severe anemia (Hb < 8 g/dL)",
+      "Suspected malignancy"
+    ],
+    "metadata": {
+      "investigations": [
+        "Clinical diagnosis",
+        "Pelvic ultrasound",
+        "MRI (if deep infiltrating)",
+        "Laparoscopy (gold standard)"
+      ],
+      "management_conservative": [
+        "NSAIDs",
+        "Combined OCPs or Progestins (continuous)",
+        "LNG-IUS",
+        "Tranexamic acid",
+        "Lifestyle & pain measures"
+      ],
+      "management_advanced": [
+        "GnRH agonists / antagonists",
+        "Add-back therapy",
+        "Laparoscopic excision / ablation",
+        "Multidisciplinary care"
+      ],
+      "management_follow_up": [
+        "Review in 6-12 weeks",
+        "Monitor pain & bleeding",
+        "Assess fertility goals",
+        "Long-term follow-up for recurrence"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_secondary_dysmenorrhoea::adenomyosis",
+    "doc_id": "clinical_guidelines_secondary_dysmenorrhoea",
+    "source_title": "Guideline Based Management of Common and Red Flag Cases of Secondary Dysmenorrhoea: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Adenomyosis",
+    "text": "Condition: Adenomyosis\nKey features: Heavy, painful periods; Chronic dull pelvic pain; Enlarged, tender uterus; Dysmenorrhoea; Menorrhagia\nInvestigations: Clinical evaluation; TVS (bulky uterus, heterogeneous myometrium); MRI (if needed)\nInitial/conservative management: NSAIDs; LNG-IUS; Progestins; Tranexamic acid; Iron for anemia\nAdvanced/specific management: GnRH agonists; Uterine artery embolization (selected cases); Hysterectomy (definitive, completed family)\nFollow-up: Review in 6-12 weeks; Monitor bleeding & pain; Manage anemia; Long-term follow-up",
+    "key_features": [
+      "Heavy, painful periods",
+      "Chronic dull pelvic pain",
+      "Enlarged, tender uterus",
+      "Dysmenorrhoea",
+      "Menorrhagia"
+    ],
+    "red_flags": [
+      "Severe pain unrelieved by analgesics",
+      "Sudden onset severe pelvic pain",
+      "Fever >= 38C with pelvic pain",
+      "Foul-smelling discharge",
+      "Heavy bleeding with hemodynamic instability",
+      "Suspected ectopic pregnancy",
+      "Adnexal mass with suspected torsion",
+      "Weight loss, night sweats, persistent systemic symptoms",
+      "Postcoital bleeding / intermenstrual bleeding",
+      "Palpable pelvic mass / nodularity",
+      "Failure to improve after 3 months of appropriate treatment",
+      "Severe anemia (Hb < 8 g/dL)",
+      "Suspected malignancy"
+    ],
+    "metadata": {
+      "investigations": [
+        "Clinical evaluation",
+        "TVS (bulky uterus, heterogeneous myometrium)",
+        "MRI (if needed)"
+      ],
+      "management_conservative": [
+        "NSAIDs",
+        "LNG-IUS",
+        "Progestins",
+        "Tranexamic acid",
+        "Iron for anemia"
+      ],
+      "management_advanced": [
+        "GnRH agonists",
+        "Uterine artery embolization (selected cases)",
+        "Hysterectomy (definitive, completed family)"
+      ],
+      "management_follow_up": [
+        "Review in 6-12 weeks",
+        "Monitor bleeding & pain",
+        "Manage anemia",
+        "Long-term follow-up"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_secondary_dysmenorrhoea::uterine-fibroids",
+    "doc_id": "clinical_guidelines_secondary_dysmenorrhoea",
+    "source_title": "Guideline Based Management of Common and Red Flag Cases of Secondary Dysmenorrhoea: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Uterine Fibroids",
+    "text": "Condition: Uterine Fibroids\nKey features: Heavy bleeding; Severe dysmenorrhoea; Pelvic pressure; Infertility / recurrent pregnancy loss; Enlarged uterus\nInvestigations: Pelvic examination; TVS (first line); MRI (mapping); Hb, TFT if indicated\nInitial/conservative management: NSAIDs; Tranexamic acid; LNG-IUS (if cavity not distorted); Combined OCPs; Iron supplementation\nAdvanced/specific management: GnRH agonists (pre-op); Myomectomy; Uterine artery embolization; Hysterectomy (completed family)\nFollow-up: Review in 6-12 weeks; Assess bleeding, pain, fertility; Monitor Hb & iron; Long-term follow-up",
+    "key_features": [
+      "Heavy bleeding",
+      "Severe dysmenorrhoea",
+      "Pelvic pressure",
+      "Infertility / recurrent pregnancy loss",
+      "Enlarged uterus"
+    ],
+    "red_flags": [
+      "Severe pain unrelieved by analgesics",
+      "Sudden onset severe pelvic pain",
+      "Fever >= 38C with pelvic pain",
+      "Foul-smelling discharge",
+      "Heavy bleeding with hemodynamic instability",
+      "Suspected ectopic pregnancy",
+      "Adnexal mass with suspected torsion",
+      "Weight loss, night sweats, persistent systemic symptoms",
+      "Postcoital bleeding / intermenstrual bleeding",
+      "Palpable pelvic mass / nodularity",
+      "Failure to improve after 3 months of appropriate treatment",
+      "Severe anemia (Hb < 8 g/dL)",
+      "Suspected malignancy"
+    ],
+    "metadata": {
+      "investigations": [
+        "Pelvic examination",
+        "TVS (first line)",
+        "MRI (mapping)",
+        "Hb, TFT if indicated"
+      ],
+      "management_conservative": [
+        "NSAIDs",
+        "Tranexamic acid",
+        "LNG-IUS (if cavity not distorted)",
+        "Combined OCPs",
+        "Iron supplementation"
+      ],
+      "management_advanced": [
+        "GnRH agonists (pre-op)",
+        "Myomectomy",
+        "Uterine artery embolization",
+        "Hysterectomy (completed family)"
+      ],
+      "management_follow_up": [
+        "Review in 6-12 weeks",
+        "Assess bleeding, pain, fertility",
+        "Monitor Hb & iron",
+        "Long-term follow-up"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_secondary_dysmenorrhoea::pelvic-inflammatory-disease-pid",
+    "doc_id": "clinical_guidelines_secondary_dysmenorrhoea",
+    "source_title": "Guideline Based Management of Common and Red Flag Cases of Secondary Dysmenorrhoea: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Pelvic Inflammatory Disease (PID)",
+    "text": "Condition: Pelvic Inflammatory Disease (PID)\nKey features: Bilateral lower abdominal pain; Dysmenorrhoea; Fever, abnormal discharge; Dyspareunia; Cervical motion tenderness\nInvestigations: Clinical diagnosis; NAAT for GC/CT; CRP / ESR; TVS (TOA); Pregnancy test\nInitial/conservative management: Empiric antibiotics (per guidelines); NSAIDs; Partner treatment; Abstain till completion\nAdvanced/specific management: Hospitalize if severe / TOA; IV antibiotics; Drainage of abscess (if large); Surgical intervention (rare)\nFollow-up: Review in 48-72 hrs; Test of cure (if indicated); Counsel on STI prevention; Screen for complications",
+    "key_features": [
+      "Bilateral lower abdominal pain",
+      "Dysmenorrhoea",
+      "Fever, abnormal discharge",
+      "Dyspareunia",
+      "Cervical motion tenderness"
+    ],
+    "red_flags": [
+      "Severe pain unrelieved by analgesics",
+      "Sudden onset severe pelvic pain",
+      "Fever >= 38C with pelvic pain",
+      "Foul-smelling discharge",
+      "Heavy bleeding with hemodynamic instability",
+      "Suspected ectopic pregnancy",
+      "Adnexal mass with suspected torsion",
+      "Weight loss, night sweats, persistent systemic symptoms",
+      "Postcoital bleeding / intermenstrual bleeding",
+      "Palpable pelvic mass / nodularity",
+      "Failure to improve after 3 months of appropriate treatment",
+      "Severe anemia (Hb < 8 g/dL)",
+      "Suspected malignancy"
+    ],
+    "metadata": {
+      "investigations": [
+        "Clinical diagnosis",
+        "NAAT for GC/CT",
+        "CRP / ESR",
+        "TVS (TOA)",
+        "Pregnancy test"
+      ],
+      "management_conservative": [
+        "Empiric antibiotics (per guidelines)",
+        "NSAIDs",
+        "Partner treatment",
+        "Abstain till completion"
+      ],
+      "management_advanced": [
+        "Hospitalize if severe / TOA",
+        "IV antibiotics",
+        "Drainage of abscess (if large)",
+        "Surgical intervention (rare)"
+      ],
+      "management_follow_up": [
+        "Review in 48-72 hrs",
+        "Test of cure (if indicated)",
+        "Counsel on STI prevention",
+        "Screen for complications"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_secondary_dysmenorrhoea::chronic-endometritis",
+    "doc_id": "clinical_guidelines_secondary_dysmenorrhoea",
+    "source_title": "Guideline Based Management of Common and Red Flag Cases of Secondary Dysmenorrhoea: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Chronic Endometritis",
+    "text": "Condition: Chronic Endometritis\nKey features: Chronic pelvic pain; Dysmenorrhoea; Abnormal uterine bleeding; Infertility / implantation failure\nInvestigations: Clinical suspicion; Endometrial biopsy (plasma cells); Culture / NAAT; HSG (if infertility)\nInitial/conservative management: Antibiotics (e.g., doxycycline); Treat underlying cause; Probiotics (adjunct)\nAdvanced/specific management: Extended antibiotic course if persistent; Manage associated conditions\nFollow-up: Review in 4-6 weeks; Reassess symptoms; Repeat evaluation if needed",
+    "key_features": [
+      "Chronic pelvic pain",
+      "Dysmenorrhoea",
+      "Abnormal uterine bleeding",
+      "Infertility / implantation failure"
+    ],
+    "red_flags": [
+      "Severe pain unrelieved by analgesics",
+      "Sudden onset severe pelvic pain",
+      "Fever >= 38C with pelvic pain",
+      "Foul-smelling discharge",
+      "Heavy bleeding with hemodynamic instability",
+      "Suspected ectopic pregnancy",
+      "Adnexal mass with suspected torsion",
+      "Weight loss, night sweats, persistent systemic symptoms",
+      "Postcoital bleeding / intermenstrual bleeding",
+      "Palpable pelvic mass / nodularity",
+      "Failure to improve after 3 months of appropriate treatment",
+      "Severe anemia (Hb < 8 g/dL)",
+      "Suspected malignancy"
+    ],
+    "metadata": {
+      "investigations": [
+        "Clinical suspicion",
+        "Endometrial biopsy (plasma cells)",
+        "Culture / NAAT",
+        "HSG (if infertility)"
+      ],
+      "management_conservative": [
+        "Antibiotics (e.g., doxycycline)",
+        "Treat underlying cause",
+        "Probiotics (adjunct)"
+      ],
+      "management_advanced": [
+        "Extended antibiotic course if persistent",
+        "Manage associated conditions"
+      ],
+      "management_follow_up": [
+        "Review in 4-6 weeks",
+        "Reassess symptoms",
+        "Repeat evaluation if needed"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_secondary_dysmenorrhoea::ovarian-cyst",
+    "doc_id": "clinical_guidelines_secondary_dysmenorrhoea",
+    "source_title": "Guideline Based Management of Common and Red Flag Cases of Secondary Dysmenorrhoea: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Ovarian Cyst",
+    "text": "Condition: Ovarian Cyst\nKey features: Acute or cyclic pelvic pain; Dysmenorrhoea; Bloating / fullness; Adnexal tenderness\nInvestigations: TVS (first line); Beta-hCG (exclude pregnancy); Doppler (torsion)\nInitial/conservative management: NSAIDs; Combined OCPs (prevention); Reassurance (functional cysts)\nAdvanced/specific management: Laparoscopic cystectomy (persistent/symptomatic); Manage torsion urgently; Malignancy evaluation (if suspicious)\nFollow-up: Review in 6-12 weeks; Repeat US if indicated; Counsel on warning signs",
+    "key_features": [
+      "Acute or cyclic pelvic pain",
+      "Dysmenorrhoea",
+      "Bloating / fullness",
+      "Adnexal tenderness"
+    ],
+    "red_flags": [
+      "Severe pain unrelieved by analgesics",
+      "Sudden onset severe pelvic pain",
+      "Fever >= 38C with pelvic pain",
+      "Foul-smelling discharge",
+      "Heavy bleeding with hemodynamic instability",
+      "Suspected ectopic pregnancy",
+      "Adnexal mass with suspected torsion",
+      "Weight loss, night sweats, persistent systemic symptoms",
+      "Postcoital bleeding / intermenstrual bleeding",
+      "Palpable pelvic mass / nodularity",
+      "Failure to improve after 3 months of appropriate treatment",
+      "Severe anemia (Hb < 8 g/dL)",
+      "Suspected malignancy"
+    ],
+    "metadata": {
+      "investigations": [
+        "TVS (first line)",
+        "Beta-hCG (exclude pregnancy)",
+        "Doppler (torsion)"
+      ],
+      "management_conservative": [
+        "NSAIDs",
+        "Combined OCPs (prevention)",
+        "Reassurance (functional cysts)"
+      ],
+      "management_advanced": [
+        "Laparoscopic cystectomy (persistent/symptomatic)",
+        "Manage torsion urgently",
+        "Malignancy evaluation (if suspicious)"
+      ],
+      "management_follow_up": [
+        "Review in 6-12 weeks",
+        "Repeat US if indicated",
+        "Counsel on warning signs"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_secondary_dysmenorrhoea::congenital-anomalies-e-g-obstructed-hemivagina-m-llerian-anomalies",
+    "doc_id": "clinical_guidelines_secondary_dysmenorrhoea",
+    "source_title": "Guideline Based Management of Common and Red Flag Cases of Secondary Dysmenorrhoea: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Congenital Anomalies (e.g., Obstructed Hemivagina, M\u00fcllerian anomalies)",
+    "text": "Condition: Congenital Anomalies (e.g., Obstructed Hemivagina, M\u00fcllerian anomalies)\nKey features: Cyclic pain after menarche; Primary amenorrhoea; Dysmenorrhoea; Hematocolpos / hematometra; Urinary symptoms\nInvestigations: Clinical exam; TVS / MRI; 3D US (if needed)\nInitial/conservative management: NSAIDs; Pain relief; Counsel\nAdvanced/specific management: Surgical correction of obstruction; Treat associated anomalies\nFollow-up: Review in 4-6 weeks; Monitor symptoms; Long-term follow-up",
+    "key_features": [
+      "Cyclic pain after menarche",
+      "Primary amenorrhoea",
+      "Dysmenorrhoea",
+      "Hematocolpos / hematometra",
+      "Urinary symptoms"
+    ],
+    "red_flags": [
+      "Severe pain unrelieved by analgesics",
+      "Sudden onset severe pelvic pain",
+      "Fever >= 38C with pelvic pain",
+      "Foul-smelling discharge",
+      "Heavy bleeding with hemodynamic instability",
+      "Suspected ectopic pregnancy",
+      "Adnexal mass with suspected torsion",
+      "Weight loss, night sweats, persistent systemic symptoms",
+      "Postcoital bleeding / intermenstrual bleeding",
+      "Palpable pelvic mass / nodularity",
+      "Failure to improve after 3 months of appropriate treatment",
+      "Severe anemia (Hb < 8 g/dL)",
+      "Suspected malignancy"
+    ],
+    "metadata": {
+      "investigations": [
+        "Clinical exam",
+        "TVS / MRI",
+        "3D US (if needed)"
+      ],
+      "management_conservative": [
+        "NSAIDs",
+        "Pain relief",
+        "Counsel"
+      ],
+      "management_advanced": [
+        "Surgical correction of obstruction",
+        "Treat associated anomalies"
+      ],
+      "management_follow_up": [
+        "Review in 4-6 weeks",
+        "Monitor symptoms",
+        "Long-term follow-up"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_secondary_dysmenorrhoea::adhesions-post-surgical-infectious",
+    "doc_id": "clinical_guidelines_secondary_dysmenorrhoea",
+    "source_title": "Guideline Based Management of Common and Red Flag Cases of Secondary Dysmenorrhoea: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Adhesions (Post-surgical / Infectious)",
+    "text": "Condition: Adhesions (Post-surgical / Infectious)\nKey features: Chronic pelvic pain; Dysmenorrhoea; Infertility; History of surgery / PID\nInvestigations: Clinical suspicion; TVS (adhesions); HSG (tubal patency); Laparoscopy\nInitial/conservative management: NSAIDs; Physiotherapy (adjunct); Treat underlying cause\nAdvanced/specific management: Laparoscopic adhesiolysis; Barrier agents (selected cases)\nFollow-up: Review in 6-12 weeks; Monitor pain & fertility; Prevent recurrence",
+    "key_features": [
+      "Chronic pelvic pain",
+      "Dysmenorrhoea",
+      "Infertility",
+      "History of surgery / PID"
+    ],
+    "red_flags": [
+      "Severe pain unrelieved by analgesics",
+      "Sudden onset severe pelvic pain",
+      "Fever >= 38C with pelvic pain",
+      "Foul-smelling discharge",
+      "Heavy bleeding with hemodynamic instability",
+      "Suspected ectopic pregnancy",
+      "Adnexal mass with suspected torsion",
+      "Weight loss, night sweats, persistent systemic symptoms",
+      "Postcoital bleeding / intermenstrual bleeding",
+      "Palpable pelvic mass / nodularity",
+      "Failure to improve after 3 months of appropriate treatment",
+      "Severe anemia (Hb < 8 g/dL)",
+      "Suspected malignancy"
+    ],
+    "metadata": {
+      "investigations": [
+        "Clinical suspicion",
+        "TVS (adhesions)",
+        "HSG (tubal patency)",
+        "Laparoscopy"
+      ],
+      "management_conservative": [
+        "NSAIDs",
+        "Physiotherapy (adjunct)",
+        "Treat underlying cause"
+      ],
+      "management_advanced": [
+        "Laparoscopic adhesiolysis",
+        "Barrier agents (selected cases)"
+      ],
+      "management_follow_up": [
+        "Review in 6-12 weeks",
+        "Monitor pain & fertility",
+        "Prevent recurrence"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_vaginal_discharge::bacterial-vaginosis-bv",
+    "doc_id": "clinical_guidelines_vaginal_discharge",
+    "source_title": "Evidence Based Management of Vaginal Discharge in Females: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Bacterial Vaginosis (BV)",
+    "text": "Condition: Bacterial Vaginosis (BV)\nKey features: Thin, homogeneous, grey-white discharge; Fishy odour (especially after intercourse); Minimal itching; pH > 4.5; Clue cells on microscopy; Positive whiff test\nInvestigations: Amsel criteria (>=3 of 4); Nugent score (7-10); pH > 4.5; Microscopy\nInitial/conservative management: Metronidazole 500 mg PO BD x 7 days OR; Metronidazole gel 0.75% 5 g intravaginally OD x 5 days OR; Clindamycin cream 2% 5 g intravaginally HS x 7 days\nAdvanced/specific management: Recurrent BV: Metronidazole gel 0.75% twice weekly x 4-6 months; Consider oral probiotics; Treat sexual partners (not routinely recommended)\nFollow-up: Review in 1-2 weeks; Advise to return if symptoms persist or recur; Avoid douching",
+    "key_features": [
+      "Thin, homogeneous, grey-white discharge",
+      "Fishy odour (especially after intercourse)",
+      "Minimal itching",
+      "pH > 4.5",
+      "Clue cells on microscopy",
+      "Positive whiff test"
+    ],
+    "red_flags": [
+      "Foul smelling discharge with fever / pelvic pain",
+      "Postmenopausal bleeding with discharge",
+      "Severe lower abdominal pain",
+      "Pregnancy with bleeding / discharge",
+      "Suspected PID / tubo-ovarian abscess",
+      "Immunocompromised patient with persistent symptoms",
+      "Recurrent or persistent discharge not responding to treatment",
+      "Ulcer, growth, or suspicious lesions"
+    ],
+    "metadata": {
+      "investigations": [
+        "Amsel criteria (>=3 of 4)",
+        "Nugent score (7-10)",
+        "pH > 4.5",
+        "Microscopy"
+      ],
+      "management_conservative": [
+        "Metronidazole 500 mg PO BD x 7 days OR",
+        "Metronidazole gel 0.75% 5 g intravaginally OD x 5 days OR",
+        "Clindamycin cream 2% 5 g intravaginally HS x 7 days"
+      ],
+      "management_advanced": [
+        "Recurrent BV: Metronidazole gel 0.75% twice weekly x 4-6 months",
+        "Consider oral probiotics",
+        "Treat sexual partners (not routinely recommended)"
+      ],
+      "management_follow_up": [
+        "Review in 1-2 weeks",
+        "Advise to return if symptoms persist or recur",
+        "Avoid douching"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_vaginal_discharge::vulvovaginal-candidiasis-yeast-infection",
+    "doc_id": "clinical_guidelines_vaginal_discharge",
+    "source_title": "Evidence Based Management of Vaginal Discharge in Females: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Vulvovaginal Candidiasis (Yeast Infection)",
+    "text": "Condition: Vulvovaginal Candidiasis (Yeast Infection)\nKey features: Thick, white, 'cottage cheese' discharge; Intense itching & redness; Burning micturition / dyspareunia; Normal pH (<= 4.5); No fishy odour\nInvestigations: KOH wet mount: Budding yeast / pseudohyphae; Culture if recurrent or complicated\nInitial/conservative management: Fluconazole 150 mg PO, single dose OR; Clotrimazole 1% cream 5 g intravaginally HS x 7 days OR; Miconazole 2% cream HS x 7 days\nAdvanced/specific management: Recurrent (>=4/year): Fluconazole 150 mg every 72 h x 3 doses, then weekly x 6 months; Consider prolonged therapy in uncontrolled diabetes; Avoid irritants\nFollow-up: Review in 1-2 weeks; Check blood sugar if recurrent; Counsel on hygiene",
+    "key_features": [
+      "Thick, white, 'cottage cheese' discharge",
+      "Intense itching & redness",
+      "Burning micturition / dyspareunia",
+      "Normal pH (<= 4.5)",
+      "No fishy odour"
+    ],
+    "red_flags": [
+      "Foul smelling discharge with fever / pelvic pain",
+      "Postmenopausal bleeding with discharge",
+      "Severe lower abdominal pain",
+      "Pregnancy with bleeding / discharge",
+      "Suspected PID / tubo-ovarian abscess",
+      "Immunocompromised patient with persistent symptoms",
+      "Recurrent or persistent discharge not responding to treatment",
+      "Ulcer, growth, or suspicious lesions"
+    ],
+    "metadata": {
+      "investigations": [
+        "KOH wet mount: Budding yeast / pseudohyphae",
+        "Culture if recurrent or complicated"
+      ],
+      "management_conservative": [
+        "Fluconazole 150 mg PO, single dose OR",
+        "Clotrimazole 1% cream 5 g intravaginally HS x 7 days OR",
+        "Miconazole 2% cream HS x 7 days"
+      ],
+      "management_advanced": [
+        "Recurrent (>=4/year): Fluconazole 150 mg every 72 h x 3 doses, then weekly x 6 months",
+        "Consider prolonged therapy in uncontrolled diabetes",
+        "Avoid irritants"
+      ],
+      "management_follow_up": [
+        "Review in 1-2 weeks",
+        "Check blood sugar if recurrent",
+        "Counsel on hygiene"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_vaginal_discharge::trichomoniasis",
+    "doc_id": "clinical_guidelines_vaginal_discharge",
+    "source_title": "Evidence Based Management of Vaginal Discharge in Females: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Trichomoniasis",
+    "text": "Condition: Trichomoniasis\nKey features: Frothy, yellow-green discharge; Foul odour; Itching, irritation; Strawberry cervix (may be present); pH > 4.5\nInvestigations: Wet mount: Motile trichomonads; NAAT (most sensitive); pH > 4.5\nInitial/conservative management: Metronidazole 2 g PO single dose OR; Metronidazole 500 mg PO BD x 7 days (Preferred in women)\nAdvanced/specific management: Treat all sexual partners simultaneously; Abstain from sex until treatment completed & symptoms resolved; Consider test of cure in pregnancy\nFollow-up: Review in 2-4 weeks; Retest if symptoms persist or recur; Screen for other STIs",
+    "key_features": [
+      "Frothy, yellow-green discharge",
+      "Foul odour",
+      "Itching, irritation",
+      "Strawberry cervix (may be present)",
+      "pH > 4.5"
+    ],
+    "red_flags": [
+      "Foul smelling discharge with fever / pelvic pain",
+      "Postmenopausal bleeding with discharge",
+      "Severe lower abdominal pain",
+      "Pregnancy with bleeding / discharge",
+      "Suspected PID / tubo-ovarian abscess",
+      "Immunocompromised patient with persistent symptoms",
+      "Recurrent or persistent discharge not responding to treatment",
+      "Ulcer, growth, or suspicious lesions"
+    ],
+    "metadata": {
+      "investigations": [
+        "Wet mount: Motile trichomonads",
+        "NAAT (most sensitive)",
+        "pH > 4.5"
+      ],
+      "management_conservative": [
+        "Metronidazole 2 g PO single dose OR",
+        "Metronidazole 500 mg PO BD x 7 days (Preferred in women)"
+      ],
+      "management_advanced": [
+        "Treat all sexual partners simultaneously",
+        "Abstain from sex until treatment completed & symptoms resolved",
+        "Consider test of cure in pregnancy"
+      ],
+      "management_follow_up": [
+        "Review in 2-4 weeks",
+        "Retest if symptoms persist or recur",
+        "Screen for other STIs"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_vaginal_discharge::cervicitis-sti-related",
+    "doc_id": "clinical_guidelines_vaginal_discharge",
+    "source_title": "Evidence Based Management of Vaginal Discharge in Females: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Cervicitis (STI-related)",
+    "text": "Condition: Cervicitis (STI-related)\nKey features: Mucopurulent discharge; Intermenstrual spotting / postcoital bleeding; Dysuria, dyspareunia; Cervical motion tenderness; Risk factors for STIs\nInvestigations: NAAT for Chlamydia trachomatis & Neisseria gonorrhoeae; Gram stain (PMNs); Culture if needed\nInitial/conservative management: Ceftriaxone 500 mg IM single dose PLUS; Doxycycline 100 mg PO BD x 7 days (If Chlamydia not excluded)\nAdvanced/specific management: Add Metronidazole 500 mg BD x 7 days if BV co-infection suspected; Treat all partners; HPV vaccination if eligible\nFollow-up: Review in 1-2 weeks; Retest for Chlamydia in 3 months; Counsel on safe sex",
+    "key_features": [
+      "Mucopurulent discharge",
+      "Intermenstrual spotting / postcoital bleeding",
+      "Dysuria, dyspareunia",
+      "Cervical motion tenderness",
+      "Risk factors for STIs"
+    ],
+    "red_flags": [
+      "Foul smelling discharge with fever / pelvic pain",
+      "Postmenopausal bleeding with discharge",
+      "Severe lower abdominal pain",
+      "Pregnancy with bleeding / discharge",
+      "Suspected PID / tubo-ovarian abscess",
+      "Immunocompromised patient with persistent symptoms",
+      "Recurrent or persistent discharge not responding to treatment",
+      "Ulcer, growth, or suspicious lesions"
+    ],
+    "metadata": {
+      "investigations": [
+        "NAAT for Chlamydia trachomatis & Neisseria gonorrhoeae",
+        "Gram stain (PMNs)",
+        "Culture if needed"
+      ],
+      "management_conservative": [
+        "Ceftriaxone 500 mg IM single dose PLUS",
+        "Doxycycline 100 mg PO BD x 7 days (If Chlamydia not excluded)"
+      ],
+      "management_advanced": [
+        "Add Metronidazole 500 mg BD x 7 days if BV co-infection suspected",
+        "Treat all partners",
+        "HPV vaccination if eligible"
+      ],
+      "management_follow_up": [
+        "Review in 1-2 weeks",
+        "Retest for Chlamydia in 3 months",
+        "Counsel on safe sex"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_vaginal_discharge::physiological-leucorrhoea",
+    "doc_id": "clinical_guidelines_vaginal_discharge",
+    "source_title": "Evidence Based Management of Vaginal Discharge in Females: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Physiological (Leucorrhoea)",
+    "text": "Condition: Physiological (Leucorrhoea)\nKey features: Thin, white or clear discharge; No odour, no itching; Varies with cycle; Normal pH (<= 4.5)\nInvestigations: Clinical diagnosis; Normal pH; No pathogens on microscopy\nInitial/conservative management: Reassurance; No medications needed; Counsel on genital hygiene & cotton underwear\nAdvanced/specific management: None\nFollow-up: Routine care; Return if symptoms change",
+    "key_features": [
+      "Thin, white or clear discharge",
+      "No odour, no itching",
+      "Varies with cycle",
+      "Normal pH (<= 4.5)"
+    ],
+    "red_flags": [
+      "Foul smelling discharge with fever / pelvic pain",
+      "Postmenopausal bleeding with discharge",
+      "Severe lower abdominal pain",
+      "Pregnancy with bleeding / discharge",
+      "Suspected PID / tubo-ovarian abscess",
+      "Immunocompromised patient with persistent symptoms",
+      "Recurrent or persistent discharge not responding to treatment",
+      "Ulcer, growth, or suspicious lesions"
+    ],
+    "metadata": {
+      "investigations": [
+        "Clinical diagnosis",
+        "Normal pH",
+        "No pathogens on microscopy"
+      ],
+      "management_conservative": [
+        "Reassurance",
+        "No medications needed",
+        "Counsel on genital hygiene & cotton underwear"
+      ],
+      "management_advanced": [
+        "None"
+      ],
+      "management_follow_up": [
+        "Routine care",
+        "Return if symptoms change"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_vaginal_discharge::atrophic-vaginitis",
+    "doc_id": "clinical_guidelines_vaginal_discharge",
+    "source_title": "Evidence Based Management of Vaginal Discharge in Females: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Atrophic Vaginitis",
+    "text": "Condition: Atrophic Vaginitis\nKey features: Thin, watery discharge; Vaginal dryness; Itching, burning, dyspareunia; Postmenopausal\nInvestigations: Clinical diagnosis; pH > 4.5; Vaginal atrophy on exam\nInitial/conservative management: Vaginal moisturizers (regular use); Lubricants for intercourse; Topical estrogen cream (as per guidelines)\nAdvanced/specific management: Low dose vaginal estrogen (e.g., estradiol cream 0.5 g HS x 2 weeks, then 2-3 times/week); Ospemifene (oral) in selected cases\nFollow-up: Review in 4-6 weeks; Monitor symptoms; Consider bone health evaluation",
+    "key_features": [
+      "Thin, watery discharge",
+      "Vaginal dryness",
+      "Itching, burning, dyspareunia",
+      "Postmenopausal"
+    ],
+    "red_flags": [
+      "Foul smelling discharge with fever / pelvic pain",
+      "Postmenopausal bleeding with discharge",
+      "Severe lower abdominal pain",
+      "Pregnancy with bleeding / discharge",
+      "Suspected PID / tubo-ovarian abscess",
+      "Immunocompromised patient with persistent symptoms",
+      "Recurrent or persistent discharge not responding to treatment",
+      "Ulcer, growth, or suspicious lesions"
+    ],
+    "metadata": {
+      "investigations": [
+        "Clinical diagnosis",
+        "pH > 4.5",
+        "Vaginal atrophy on exam"
+      ],
+      "management_conservative": [
+        "Vaginal moisturizers (regular use)",
+        "Lubricants for intercourse",
+        "Topical estrogen cream (as per guidelines)"
+      ],
+      "management_advanced": [
+        "Low dose vaginal estrogen (e.g., estradiol cream 0.5 g HS x 2 weeks, then 2-3 times/week)",
+        "Ospemifene (oral) in selected cases"
+      ],
+      "management_follow_up": [
+        "Review in 4-6 weeks",
+        "Monitor symptoms",
+        "Consider bone health evaluation"
+      ],
+      "differential_red_flags": []
+    }
+  },
+  {
+    "chunk_id": "clinical_guidelines_vaginal_discharge::non-infectious-causes-allergic-irritant",
+    "doc_id": "clinical_guidelines_vaginal_discharge",
+    "source_title": "Evidence Based Management of Vaginal Discharge in Females: A Clinical Flow Chart Guide",
+    "category": "Clinical Guidelines",
+    "condition_name": "Non-infectious Causes (Allergic / Irritant)",
+    "text": "Condition: Non-infectious Causes (Allergic / Irritant)\nKey features: Discharge with itching & irritation; History of new soap, pads, lubricants, spermicides, etc.; No systemic symptoms\nInvestigations: Clinical diagnosis; pH normal or mildly elevated; No pathogens\nInitial/conservative management: Remove offending agent; Barrier protection (zinc oxide); Topical corticosteroid (short course if severe)\nAdvanced/specific management: Patch testing in selected cases; Treat secondary infection if present\nFollow-up: Review in 2-4 weeks; Return if no improvement",
+    "key_features": [
+      "Discharge with itching & irritation",
+      "History of new soap, pads, lubricants, spermicides, etc.",
+      "No systemic symptoms"
+    ],
+    "red_flags": [
+      "Foul smelling discharge with fever / pelvic pain",
+      "Postmenopausal bleeding with discharge",
+      "Severe lower abdominal pain",
+      "Pregnancy with bleeding / discharge",
+      "Suspected PID / tubo-ovarian abscess",
+      "Immunocompromised patient with persistent symptoms",
+      "Recurrent or persistent discharge not responding to treatment",
+      "Ulcer, growth, or suspicious lesions"
+    ],
+    "metadata": {
+      "investigations": [
+        "Clinical diagnosis",
+        "pH normal or mildly elevated",
+        "No pathogens"
+      ],
+      "management_conservative": [
+        "Remove offending agent",
+        "Barrier protection (zinc oxide)",
+        "Topical corticosteroid (short course if severe)"
+      ],
+      "management_advanced": [
+        "Patch testing in selected cases",
+        "Treat secondary infection if present"
+      ],
+      "management_follow_up": [
+        "Review in 2-4 weeks",
+        "Return if no improvement"
+      ],
+      "differential_red_flags": []
+    }
+  }
+]
