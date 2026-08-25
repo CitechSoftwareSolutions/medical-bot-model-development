@@ -1,0 +1,313 @@
+{
+    "document_metadata": {
+        "title": "Guideline Based Management of Abdominal Discomfort in Elderly: A Clinical Flow Chart Guide",
+        "category": "Clinical Guidelines",
+        "target_audience": "Healthcare Professionals"
+    },
+    "workflow_steps": [
+        "1. Initial Approach: Assess ABCs & stability, Detailed history, Medication review, Physical examination, Identify Red Flags",
+        "2. Initial Evaluation: Basic labs (CBC, U&E, LFT, CRP), Consider ECG, Abdominal ultrasound, Stool occult blood, Assess hydration/nutrition",
+        "3. Diagnosis & Risk Stratification: Use clinical features, tests & imaging; Stratify severity; Identify complications; Consider co-morbidities & frailty",
+        "4. Management & Follow-up: Start condition-specific management, Reassess response (24-72 hrs), Adjust therapy, Plan follow-up, Refer if needed"
+    ],
+    "conditions_registry": [
+        {
+            "condition_name": "GORD (Gastro-oesophageal Reflux Disease)",
+            "clinical_presentation": {
+                "key_features": [
+                    "Heartburn, regurgitation",
+                    "Worse at night or after meals",
+                    "Atypical symptoms: cough, hoarseness, asthma",
+                    "Consider drug-induced (nitrates, CCBs)",
+                    "Alarm symptoms: weight loss, dysphagia"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "Clinical diagnosis",
+                    "Upper GI endoscopy if alarm symptoms or long-standing",
+                    "pH monitoring (if refractory)"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "Lifestyle: weight reduction, elevate head end, avoid late meals, reduce trigger foods",
+                    "Trial PPI once daily (e.g., Pantoprazole 40 mg OD)",
+                    "Antacids / alginates PRN"
+                ],
+                "specific_advanced": [
+                    "Optimize PPI (BD dosing if needed)",
+                    "Add H2 blocker at night if nocturnal symptoms",
+                    "Evaluate & stop offending drugs",
+                    "Endoscopic evaluation if alarm or refractory",
+                    "Consider surgery (fundoplication) in fit patients with refractory disease"
+                ],
+                "follow_up_monitoring": [
+                    "Review in 4-8 weeks",
+                    "Monitor symptom control",
+                    "Watch for B12 deficiency, fractures (long-term PPI)",
+                    "Repeat endoscopy if symptoms persist or worsen"
+                ]
+            }
+        },
+        {
+            "condition_name": "Peptic Ulcer Disease (PUD)",
+            "clinical_presentation": {
+                "key_features": [
+                    "Epigastric pain, burning",
+                    "Pain related to meals (DU: pain after, GU: pain with food)",
+                    "NSAID use common in elderly",
+                    "Alarm: bleeding, anemia, weight loss, vomiting"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "Upper GI endoscopy (gold standard)",
+                    "H. pylori test (Urea breath test / stool antigen / biopsy)"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "Stop NSAIDs",
+                    "Start PPI (e.g., Pantoprazole 40 mg BD)",
+                    "Test & treat H. pylori if positive",
+                    "Sucralfate if needed"
+                ],
+                "specific_advanced": [
+                    "H. pylori eradication: PPI + Clarithromycin + Amoxicillin (or Metronidazole) for 14 days",
+                    "Continue PPI 4-8 weeks (DU), 8-12 weeks (GU)",
+                    "Endoscopic therapy if bleeding",
+                    "Surgery if perforation, obstruction, recurrent bleeding"
+                ],
+                "follow_up_monitoring": [
+                    "Confirm H. pylori eradication",
+                    "Monitor for anemia",
+                    "Avoid NSAIDs (use alternatives)",
+                    "Repeat endoscopy if non-healing ulcer or alarm"
+                ]
+            }
+        },
+        {
+            "condition_name": "Gall Bladder Diseases",
+            "clinical_presentation": {
+                "key_features": [
+                    "RUQ pain, nausea, bloating",
+                    "Pain after fatty meals",
+                    "May have fever (cholecystitis)",
+                    "Elderly may present atypically",
+                    "Consider comorbid cardiac/pulmonary disease"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "Ultrasound abdomen (first line)",
+                    "LFT, CBC",
+                    "Consider HIDA scan if biliary dyskinesia suspected"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "Analgesia (Paracetamol)",
+                    "Low-fat diet",
+                    "Hydration",
+                    "Treat infection if present (Antibiotics)"
+                ],
+                "specific_advanced": [
+                    "Cholelithiasis (symptomatic): Laparoscopic cholecystectomy (preferred) if fit",
+                    "Acute cholecystitis: IV antibiotics + supportive care",
+                    "Percutaneous cholecystostomy if high surgical risk",
+                    "ERCP if choledocholithiasis"
+                ],
+                "follow_up_monitoring": [
+                    "Monitor LFT, symptoms",
+                    "Post-op follow-up",
+                    "Watch for complications (jaundice, pancreatitis)",
+                    "Dietary advice"
+                ]
+            }
+        },
+        {
+            "condition_name": "Gastric Carcinoma",
+            "clinical_presentation": {
+                "key_features": [
+                    "Early satiety, bloating",
+                    "Weight loss, anorexia",
+                    "Epigastric discomfort",
+                    "Anemia, occult bleeding",
+                    "More common in >70 yrs",
+                    "Alarm symptoms common"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "Upper GI endoscopy with biopsy",
+                    "CT abdomen (staging)",
+                    "CBC, LFT, tumor markers (CEA, CA19-9)"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "Nutritional support",
+                    "Treat anemia",
+                    "Pain control",
+                    "PPI for symptom relief"
+                ],
+                "specific_advanced": [
+                    "Multidisciplinary approach",
+                    "Surgery (if early & resectable)",
+                    "Chemotherapy (e.g., FLOT regimen)",
+                    "Radiotherapy (adjuvant / palliative)",
+                    "Palliative care for advanced disease",
+                    "Endoscopic stenting for obstruction"
+                ],
+                "follow_up_monitoring": [
+                    "Regular oncology follow-up",
+                    "Monitor nutrition & weight",
+                    "Manage complications",
+                    "Psychosocial support"
+                ]
+            }
+        },
+        {
+            "condition_name": "Bowel Cancer (Colorectal Cancer)",
+            "clinical_presentation": {
+                "key_features": [
+                    "Change in bowel habits",
+                    "Rectal bleeding",
+                    "Abdominal discomfort",
+                    "Iron deficiency anemia",
+                    "Weight loss, fatigue",
+                    "High prevalence in elderly"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "Colonoscopy with biopsy",
+                    "CEA level",
+                    "CT abdomen/pelvis (staging)"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "Nutritional assessment",
+                    "Treat anemia",
+                    "Pain relief",
+                    "Bowel regimen"
+                ],
+                "specific_advanced": [
+                    "Surgery (curative if early stage)",
+                    "Chemotherapy (adjuvant / palliative)",
+                    "Radiotherapy (rectal cancer)",
+                    "Targeted therapy (selected cases)",
+                    "Palliative stoma for obstruction"
+                ],
+                "follow_up_monitoring": [
+                    "Surveillance colonoscopy (as per guidelines)",
+                    "Monitor CEA",
+                    "Manage side effects of treatment",
+                    "Supportive care"
+                ]
+            }
+        },
+        {
+            "condition_name": "Diverticulitis",
+            "clinical_presentation": {
+                "key_features": [
+                    "LLQ pain",
+                    "Fever, altered bowel habits",
+                    "Nausea, bloating",
+                    "May present with confusion in elderly",
+                    "Consider perforation risk"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "Clinical diagnosis",
+                    "CT abdomen/pelvis with contrast (gold standard)",
+                    "CBC, CRP"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "Mild (uncomplicated): Oral antibiotics (e.g., Amoxicillin-Clavulanate or Ciprofloxacin + Metronidazole)",
+                    "Low residue diet",
+                    "Hydration",
+                    "Analgesia"
+                ],
+                "specific_advanced": [
+                    "Severe / complicated: IV antibiotics",
+                    "Abscess: percutaneous drainage",
+                    "Peritonitis, fistula, obstruction: Surgical management",
+                    "Elective surgery for recurrent episodes"
+                ],
+                "follow_up_monitoring": [
+                    "Monitor symptoms",
+                    "Colonoscopy after recovery (6-8 weeks)",
+                    "High fibre diet after recovery",
+                    "Prevent constipation"
+                ]
+            }
+        },
+        {
+            "condition_name": "Bowel Obstruction",
+            "clinical_presentation": {
+                "key_features": [
+                    "Colicky abdominal pain",
+                    "Vomiting",
+                    "Abdominal distension",
+                    "Constipation / obstipation",
+                    "High risk in elderly (adhesions, hernia, tumors)"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "Clinical diagnosis",
+                    "X-ray abdomen (erect)",
+                    "CT abdomen (if unclear)",
+                    "Labs (U&E, CBC)"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "NPO (nil by mouth)",
+                    "IV fluids & electrolytes",
+                    "Nasogastric decompression",
+                    "Analgesia",
+                    "Treat underlying cause if infection"
+                ],
+                "specific_advanced": [
+                    "Conservative management: adhesive obstruction (no strangulation)",
+                    "Surgery for bowel strangulation, ischemia, perforation, or failure of conservative therapy",
+                    "Endoscopic stenting (selected cases)"
+                ],
+                "follow_up_monitoring": [
+                    "Monitor vitals, abdominal signs",
+                    "Repeat imaging if no improvement",
+                    "Nutritional support",
+                    "Prevent recurrence"
+                ]
+            }
+        }
+    ],
+    "global_red_flags": [
+        "Significant weight loss",
+        "Gastrointestinal bleeding (hematemesis / melena / hematochezia)",
+        "Progressive dysphagia",
+        "Persistent vomiting",
+        "Severe abdominal pain with guarding or rigidity",
+        "Iron deficiency anemia (unexplained)",
+        "Obstructive symptoms",
+        "Jaundice",
+        "Altered mental status"
+    ],
+    "clinical_best_practices": [
+        "Treat the cause, not just the symptom",
+        "Consider geriatric syndromes (frailty, polypharmacy, malnutrition)",
+        "Use lowest effective drug dose",
+        "Avoid NSAIDs and unnecessary medications",
+        "Ensure adequate hydration & nutrition",
+        "Family/caregiver education and support",
+        "Advance care planning in advanced disease"
+    ],
+    "disclaimer": "This chart is a guide only. Clinical judgment is essential. Refer to local guidelines and specialist input as needed."
+}

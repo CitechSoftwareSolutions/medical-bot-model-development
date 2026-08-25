@@ -1,0 +1,414 @@
+{
+    "document_metadata": {
+        "title": "Evaluation of Headache in Adults: A Clinical Flow Chart Guide",
+        "category": "Clinical Guidelines",
+        "target_audience": "Healthcare Professionals"
+    },
+    "workflow_steps": [
+        "1. Initial Approach: Assess ABCs, history, physical/neuro exam, identify Red Flags",
+        "2. Classify Headache: Onset, duration, location, character, symptoms, triggers",
+        "3. Targeted Evaluation: History, examination, investigations",
+        "4. Diagnosis & Management: Treat underlying cause, provide symptomatic relief"
+    ],
+    "conditions_registry": [
+        {
+            "condition_name": "Migraines",
+            "clinical_presentation": {
+                "key_features": [
+                    "Unilateral, throbbing",
+                    "Moderate to severe",
+                    "Nausea / vomiting",
+                    "Photophobia / phonophobia",
+                    "Aura (visual, sensory) may precede",
+                    "Worse with activity"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "Usually clinical",
+                    "Neuroimaging if atypical features or red flags"
+                ],
+                "differential_red_flags": [
+                    "Sudden severe onset",
+                    "Neurological deficit",
+                    "New onset > 50 yrs",
+                    "Change in pattern",
+                    "Fever / stiff neck"
+                ]
+            },
+            "management_plan": {
+                "pharmacological": {
+                    "acute_abortive": [
+                        "Ibuprofen 400-800 mg PO stat, then 400-800 mg q6-8h PRN (max 2400 mg/day) - up to 3-5 days",
+                        "Sumatriptan 50-100 mg PO at onset; may repeat 50-100 mg after 2 h (max 200 mg/24 h) - up to 2 days/week",
+                        "Metoclopramide 10 mg PO/IV q8h PRN for nausea - up to 3 days"
+                    ],
+                    "preventive": [
+                        "Topiramate 25 mg HS titrate to 50-100 mg/day - >= 3 months",
+                        "Propranolol 20 mg BID titrate to 40-80 mg BID - >= 3 months",
+                        "Amitriptyline 10-25 mg HS titrate to 25-75 mg HS - >= 3 months"
+                    ]
+                },
+                "non_pharmacological": [
+                    "Trigger avoidance",
+                    "Regular sleep & meals",
+                    "Hydration",
+                    "Stress management",
+                    "Relaxation therapy",
+                    "Biofeedback"
+                ]
+            }
+        },
+        {
+            "condition_name": "Cluster Headache",
+            "clinical_presentation": {
+                "key_features": [
+                    "Severe, unilateral (around eye)",
+                    "Sharp / piercing",
+                    "Lasts 15-180 min",
+                    "Red eye, tearing, nasal congestion",
+                    "Restlessness / agitation",
+                    "Occurs in clusters"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "Usually clinical",
+                    "Imaging to rule out secondary causes if atypical"
+                ],
+                "differential_red_flags": [
+                    "New onset > 40 yrs",
+                    "Neurological deficit",
+                    "Change in pattern",
+                    "Persistent outside cluster periods"
+                ]
+            },
+            "management_plan": {
+                "pharmacological": {
+                    "acute_abortive": [
+                        "Sumatriptan 6 mg SC stat; may repeat after 1 h (max 12 mg/24 h) - up to 2 attacks/day",
+                        "Zolmitriptan 5 mg nasal spray stat; may repeat after 2 h (max 10 mg/24 h)",
+                        "Oxygen 100% via non-rebreather mask 12-15 L/min for 15-20 min - each attack"
+                    ],
+                    "preventive": [
+                        "Verapamil 80 mg TID titrate to 240-960 mg/day - >= 6-8 weeks",
+                        "Prednisone 60 mg daily taper over 2-3 weeks (short term bridge)"
+                    ]
+                },
+                "non_pharmacological": [
+                    "Avoid alcohol during cluster period",
+                    "Regular sleep",
+                    "Stress reduction",
+                    "Identify & avoid triggers"
+                ]
+            }
+        },
+        {
+            "condition_name": "Tension Headache",
+            "clinical_presentation": {
+                "key_features": [
+                    "Bilateral, pressing / tightening",
+                    "Mild to moderate",
+                    "Not aggravated by routine activity",
+                    "No nausea / vomiting",
+                    "Stress / fatigue related"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "Usually clinical",
+                    "Imaging if red flags or atypical features"
+                ],
+                "differential_red_flags": [
+                    "Sudden severe onset",
+                    "Neurological deficit",
+                    "New onset > 50 yrs",
+                    "Fever / stiff neck"
+                ]
+            },
+            "management_plan": {
+                "pharmacological": {
+                    "acute_abortive": [
+                        "Paracetamol 500-1000 mg PO q6h PRN (max 3 g/day) - up to 7 days",
+                        "Ibuprofen 200-400 mg PO q6-8h PRN (max 1200 mg/day) - up to 7 days"
+                    ],
+                    "preventive": [
+                        "Amitriptyline 10-25 mg HS titrate to 25-75 mg HS - >= 2-3 months",
+                        "Mirtazapine 15 mg HS - >= 2-3 months"
+                    ]
+                },
+                "non_pharmacological": [
+                    "Stress management",
+                    "Ergonomic correction",
+                    "Regular exercise",
+                    "Adequate sleep",
+                    "Relaxation therapy"
+                ]
+            }
+        },
+        {
+            "condition_name": "Brain Tumour",
+            "clinical_presentation": {
+                "key_features": [
+                    "Progressive headache",
+                    "Worse in morning",
+                    "Vomiting",
+                    "Seizures",
+                    "Focal neurological deficit",
+                    "Personality / cognitive changes"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "MRI brain with contrast",
+                    "CT scan (if MRI not available)",
+                    "Neurological exam"
+                ],
+                "differential_red_flags": [
+                    "Progressive worsening",
+                    "Neurological deficit",
+                    "New onset > 50 yrs",
+                    "Seizures",
+                    "Change in behavior / cognition"
+                ]
+            },
+            "management_plan": {
+                "pharmacological": {
+                    "treatment": [
+                        "Dexamethasone 4-16 mg/day PO/IV in divided doses - ongoing",
+                        "Paracetamol 500-1000 mg q6h PRN",
+                        "Opioids (e.g., Tramadol 50-100 mg q6h or Morphine 5-10 mg q4h PRN) - as needed for severe pain",
+                        "Levetiracetam 500 mg BID (seizure prophylaxis) - ongoing if indicated"
+                    ]
+                },
+                "non_pharmacological": [
+                    "Supportive care",
+                    "Seizure precautions",
+                    "Cognitive support",
+                    "Psychological support"
+                ]
+            }
+        },
+        {
+            "condition_name": "Acute Angle Closure Glaucoma",
+            "clinical_presentation": {
+                "key_features": [
+                    "Severe eye pain",
+                    "Headache (often unilateral)",
+                    "Blurred vision / halos around lights",
+                    "Nausea / vomiting",
+                    "Red eye"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "Intraocular pressure measurement",
+                    "Slit lamp exam",
+                    "Ophthalmology consult"
+                ],
+                "differential_red_flags": [
+                    "Sudden onset",
+                    "Visual disturbance",
+                    "Halos around lights",
+                    "Nausea / vomiting"
+                ]
+            },
+            "management_plan": {
+                "pharmacological": {
+                    "immediate_intervention": [
+                        "Acetazolamide 500 mg IV stat, then 250 mg PO QID - 1-2 days",
+                        "Timolol 0.5% eye drops 1 drop stat, then BID - 1-2 days",
+                        "Pilocarpine 2% eye drops 1 drop stat, then q15 min for 1 hour, then QID - until controlled",
+                        "Mannitol 1-2 g/kg IV over 30-60 min - single dose (if severe)"
+                    ]
+                },
+                "non_pharmacological": [
+                    "Avoid dark rooms",
+                    "Immediate ophthalmology referral",
+                    "Patient education"
+                ]
+            }
+        },
+        {
+            "condition_name": "Drug Induced Headache",
+            "clinical_presentation": {
+                "key_features": [
+                    "Temporal relation to drug initiation or dose change",
+                    "Variable pattern",
+                    "May mimic migraines or tension headaches"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "Detailed drug history",
+                    "Review recent changes",
+                    "Imaging if red flags"
+                ],
+                "differential_red_flags": [
+                    "New neurological symptoms",
+                    "Severe or worsening pattern"
+                ]
+            },
+            "management_plan": {
+                "pharmacological": {
+                    "treatment": [
+                        "Stop / adjust offending drug",
+                        "Paracetamol 500-1000 mg q6h PRN for pain - up to 5 days",
+                        "If withdrawal headache (e.g., caffeine): Naproxen 250-500 mg BID - 3-5 days"
+                    ]
+                },
+                "non_pharmacological": [
+                    "Medication review",
+                    "Avoid overuse of analgesics",
+                    "Patient counseling"
+                ]
+            }
+        },
+        {
+            "condition_name": "Thunderclap Headache",
+            "clinical_presentation": {
+                "key_features": [
+                    "Sudden onset",
+                    "Severe (worst ever)",
+                    "Peaks in seconds",
+                    "May be associated with neurological symptoms"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "CT brain (urgent)",
+                    "Lumbar puncture",
+                    "CT / MR angiography",
+                    "Rule out SAH"
+                ],
+                "differential_red_flags": [
+                    "Sudden explosive onset",
+                    "Neck stiffness",
+                    "Loss of consciousness",
+                    "Neurological deficit"
+                ]
+            },
+            "management_plan": {
+                "pharmacological": {
+                    "treatment": [
+                        "Treat underlying cause urgently (e.g., aneurysm, bleed, RCVS)",
+                        "Paracetamol 500-1000 mg q6h PRN",
+                        "Opioids (e.g., Morphine 2-4 mg IV q4h PRN) - as needed"
+                    ]
+                },
+                "non_pharmacological": [
+                    "Emergency care",
+                    "Monitor vitals",
+                    "Neurosurgical / neurology consult"
+                ]
+            }
+        },
+        {
+            "condition_name": "Chronic Sinusitis",
+            "clinical_presentation": {
+                "key_features": [
+                    "Facial pain / pressure",
+                    "Nasal congestion",
+                    "Purulent nasal discharge",
+                    "Postnasal drip",
+                    "Worse when bending forward"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "Clinical exam",
+                    "Nasal endoscopy",
+                    "CT paranasal sinuses"
+                ],
+                "differential_red_flags": [
+                    "Orbital / neurological complications",
+                    "Persistent high fever",
+                    "Severe facial swelling"
+                ]
+            },
+            "management_plan": {
+                "pharmacological": {
+                    "treatment": [
+                        "Amoxicillin-Clavulanate 625 mg PO TID - 10-14 days (or Doxycycline 100 mg PO BID if allergic)",
+                        "Paracetamol 500-1000 mg q6h PRN",
+                        "Intranasal corticosteroid (Fluticasone 50 mcg/nostril OD) - >= 4-6 weeks"
+                    ]
+                },
+                "non_pharmacological": [
+                    "Steam inhalation",
+                    "Hydration",
+                    "Allergy management",
+                    "Avoid irritants",
+                    "Saline nasal irrigation"
+                ]
+            }
+        },
+        {
+            "condition_name": "Uncontrolled Hypertension",
+            "clinical_presentation": {
+                "key_features": [
+                    "Dull, throbbing headache (often occipital)",
+                    "Associated with dizziness",
+                    "Blurred vision",
+                    "Fatigue",
+                    "BP usually markedly elevated"
+                ]
+            },
+            "diagnostic_approach": {
+                "investigations": [
+                    "BP measurement",
+                    "Fundoscopy",
+                    "Renal function tests",
+                    "ECG",
+                    "Urinalysis"
+                ],
+                "differential_red_flags": [
+                    "BP > 180/120 mmHg",
+                    "Chest pain",
+                    "Breathlessness",
+                    "Neurological deficit",
+                    "Papilledema"
+                ]
+            },
+            "management_plan": {
+                "pharmacological": {
+                    "guidelines": "Gradual BP reduction (not > 25% in first hour unless hypertensive emergency)",
+                    "treatment": [
+                        "Amlodipine 5-10 mg PO OD - ongoing",
+                        "Telmisartan 40-80 mg PO OD - ongoing",
+                        "Hydrochlorothiazide 12.5-25 mg PO OD - ongoing",
+                        "Clonidine 0.1-0.2 mg PO stat; may repeat after 30-60 min - short term",
+                        "Paracetamol 500-1000 mg q6h PRN"
+                    ]
+                },
+                "non_pharmacological": [
+                    "Lifestyle modification",
+                    "Salt restriction",
+                    "Regular monitoring",
+                    "Medication adherence"
+                ]
+            }
+        }
+    ],
+    "global_red_flags": [
+        "Sudden onset (thunderclap)",
+        "Neurological deficit",
+        "New onset > 50 years",
+        "Fever / stiff neck",
+        "Seizures",
+        "Progressive worsening",
+        "Change in pattern",
+        "Persistent vomiting"
+    ],
+    "clinical_best_practices": [
+        "Identify and treat the underlying cause.",
+        "Provide symptomatic relief.",
+        "Encourage healthy lifestyle (sleep, hydration, exercise).",
+        "Use medications judiciously; avoid overuse.",
+        "Consider multidisciplinary approach for chronic or complex cases.",
+        "Regular follow-up and reassessment.",
+        "Address psychosocial factors.",
+        "Consider referral when needed."
+    ],
+    "disclaimer": "This chart is a guide only and does not replace individualized clinical judgment."
+}

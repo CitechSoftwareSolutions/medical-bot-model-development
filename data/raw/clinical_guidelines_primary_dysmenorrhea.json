@@ -1,0 +1,145 @@
+{
+    "document_metadata": {
+        "title": "Guideline Based Management of Primary Dysmenorrhea: A Clinical Flow Chart Guide",
+        "category": "Clinical Guidelines",
+        "target_audience": "Healthcare Professionals"
+    },
+    "workflow_steps": [
+        "1. Initial Approach: Establish rapport & privacy, Detailed history, Menstrual history, Associated symptoms, Medication & family history, Physical examination, Identify red flags",
+        "2. Initial Evaluation: History & examination consistent with primary dysmenorrhea, No abnormal pelvic findings, Consider further evaluation if diagnosis is uncertain to exclude secondary causes",
+        "3. Diagnosis: Cyclic lower abdominal pain during menses, Begins shortly after menarche, No pelvic pathology, Normal pelvic exam, Normal investigations, Exclude secondary causes",
+        "4. Management & Follow-Up: Stepwise individualized treatment, Start with non-pharmacologic measures, Use pharmacologic therapy based on severity, Reassess & step up if needed, Follow-up in 3-6 months"
+    ],
+    "conditions_registry": [
+        {
+            "condition_name": "Mild Primary Dysmenorrhea (Minimal impact on daily activities)",
+            "clinical_presentation": {
+                "key_features": [
+                    "Cramping lower abdominal pain at onset of menses",
+                    "Mild-moderate intensity",
+                    "Little or no interference with daily activities",
+                    "No associated significant symptoms"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "Non-Pharmacologic Measures: Education & reassurance, Heat therapy, Regular exercise, Adequate sleep, Stress reduction (yoga, relaxation), Dietary measures"
+                ],
+                "specific_advanced": [
+                    "Second-Line / Adjunctive (If inadequate relief): NSAIDs (Ibuprofen, Mefenamic acid, Naproxen, Diclofenac) starting at onset or 1-2 days before menses",
+                    "Third-Line Options (If persistent pain): Different NSAID agent or dose optimization, Add antispasmodic (e.g., Drotaverine), Magnesium supplement, Vitamin B1 / E"
+                ],
+                "follow_up_monitoring": [
+                    "Review in 3-6 months",
+                    "Assess pain relief, side effects & adherence",
+                    "Encourage continuation of non-pharmacologic measures",
+                    "Return earlier if worsening or new symptoms"
+                ]
+            }
+        },
+        {
+            "condition_name": "Moderate Primary Dysmenorrhea (Interferes with some activities)",
+            "clinical_presentation": {
+                "key_features": [
+                    "Moderate to severe cramps",
+                    "Interferes with school, work or routine activities",
+                    "May have nausea, vomiting, headache, diarrhoea, backache",
+                    "Responds to self-care partially"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "Non-Pharmacologic Measures (as above)",
+                    "NSAIDs (First-line pharmacologic): Start early at onset or 1-2 days before menses"
+                ],
+                "specific_advanced": [
+                    "Second-Line / Adjunctive (If inadequate relief): Switch/optimize NSAID, Add antispasmodic, Consider Tranexamic acid (if heavy bleeding), Magnesium / Vitamin B1 / E",
+                    "Third-Line Options (If persistent pain): COCPs (cyclic or extended), Progestin-only pills, LNG-IUS, Lifestyle & stress management support"
+                ],
+                "follow_up_monitoring": [
+                    "Review in 3-6 months",
+                    "Assess pain score, function & satisfaction",
+                    "Monitor side effects",
+                    "Reinforce adherence & non-pharmacologic measures",
+                    "Step up if inadequate relief"
+                ]
+            }
+        },
+        {
+            "condition_name": "Severe Primary Dysmenorrhea (Marked impact / bed rest)",
+            "clinical_presentation": {
+                "key_features": [
+                    "Severe cramping pain",
+                    "Marked interference with daily activities / school or work absenteeism",
+                    "Associated symptoms prominent (nausea, vomiting, diarrhoea, headache, fatigue)",
+                    "Minimal relief with self-care"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "NSAIDs (First-line): Adequate dose, early initiation for 2-3 days",
+                    "Combine with non-pharmacologic measures",
+                    "Consider antiemetic if severe nausea / vomiting"
+                ],
+                "specific_advanced": [
+                    "Second-Line / Adjunctive (If inadequate relief): Switch to another NSAID or higher dose, Add antispasmodic, Add tranexamic acid, Short course simple analgesic (paracetamol) as adjunct",
+                    "Third-Line Options (Hormonal Therapy): COCPs (cyclic / extended), LNG-IUS, Progestin-only options (e.g., DMPA, implant), Consider GnRH agonist (rare; refractory cases under specialist care)"
+                ],
+                "follow_up_monitoring": [
+                    "Review in 3 months",
+                    "Assess pain relief, quality of life & side effects",
+                    "Monitor BP (if on COCP), weight, mood",
+                    "If inadequate relief, reassess for secondary causes"
+                ]
+            }
+        },
+        {
+            "condition_name": "Refractory / Treatment Failure (No adequate relief despite optimal therapy)",
+            "clinical_presentation": {
+                "key_features": [
+                    "Persistent pain despite optimal medical therapy (3-6 months)",
+                    "Significant impact on quality of life",
+                    "Consider possibility of secondary dysmenorrhea"
+                ]
+            },
+            "management_plan": {
+                "initial_conservative": [
+                    "Reassess: Confirm diagnosis, Review adherence, Assess severity & pattern, Rule out secondary causes (endometriosis, adenomyosis) if atypical features present"
+                ],
+                "specific_advanced": [
+                    "Adjunctive Options: Optimize hormonal therapy, Add adjuncts (neuromodulators e.g. amitriptyline, gabapentin), Pelvic floor physical therapy, Psychological support / CBT",
+                    "Specialist Referral: Gynecologist / pain specialist, Consider diagnostic laparoscopy (if suspicion of endometriosis), Multidisciplinary approach"
+                ],
+                "follow_up_monitoring": [
+                    "Individualized follow-up",
+                    "Monitor treatment response & adverse effects",
+                    "Adjust plan as needed",
+                    "Ensure reproductive counselling if required"
+                ]
+            }
+        }
+    ],
+    "global_red_flags": [
+        "Pain not limited to menses",
+        "Progressively worsening pain",
+        "Abnormal uterine bleeding",
+        "Pain during or after intercourse",
+        "Infertility",
+        "Malodorous vaginal discharge",
+        "Fever, chills",
+        "Severe GI / urinary symptoms",
+        "Postmenopausal bleeding",
+        "No response to adequate therapy",
+        "Suspicion of pregnancy"
+    ],
+    "clinical_best_practices": [
+        "Start treatment early (1-2 days before or at onset of menses)",
+        "Use lowest effective dose for shortest duration",
+        "Combine pharmacologic & non-pharmacologic therapies",
+        "Individualize based on severity, preference, comorbidities & goals",
+        "Educate & empower for self-management",
+        "Reassess regularly & step up if needed",
+        "Consider impact on quality of life & mental health"
+    ],
+    "disclaimer": "This chart is a guide only. Clinical judgment is essential. Early recognition and appropriate management improve outcomes in women."
+}
